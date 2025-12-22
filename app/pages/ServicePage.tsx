@@ -69,7 +69,7 @@ const ServicePage = () => {
                             </p>
                         </div>
                         <div className="md:row-span-2 md:col-span-1">
-                            <img src='./1.jpg' alt='1' draggable={false} className='rounded-2xl h-100 md:h-144 w-full object-cover' />
+                            <img src='./1.jpg' loading="lazy" alt='1' draggable={false} className='rounded-2xl h-100 md:h-144 w-full object-cover' />
                         </div>
                         <div className='grid gap-5'>
                             <img src='./10.jpg' alt='10' draggable={false} className='rounded-2xl h-69.5 w-full object-cover' />

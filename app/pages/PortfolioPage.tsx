@@ -110,6 +110,7 @@ const PortfolioPage = () => {
                             >
                                 <motion.img
                                     src={img}
+                                    loading="lazy"
                                     draggable={false}
                                     alt={`Portfolio ${idx + 1}`}
                                     className="w-full h-auto rounded-lg object-contain transition-transform duration-300 hover:scale-105 dark:brightness-90"
