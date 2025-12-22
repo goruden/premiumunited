@@ -4,6 +4,7 @@ import Team from './SubPages/Team'
 import Timeline from './SubPages/Timeline'
 import CityMap from './SubPages/CityMap'
 import { motion, useScroll } from "framer-motion"
+import { MapThemeProvider } from "../components/MapComp/MapThemeContext"
 
 const AboutPage = () => {
 
@@ -15,7 +16,9 @@ const AboutPage = () => {
                 <Branch />
                 <Team />
                 <Timeline />
-                <CityMap />
+                <MapThemeProvider observeDocumentDarkClass>
+                    <CityMap />
+                </MapThemeProvider>
                 <motion.div
                     id="scroll-indicator"
                     className='fixed bg-red-600'
