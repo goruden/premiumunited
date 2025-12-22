@@ -98,6 +98,7 @@ const Team = () => {
                   <img
                     src={selectedMember.photo}
                     alt={selectedMember.name}
+                    loading="lazy"
                     className="h-full w-full object-cover"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent" />
@@ -136,6 +137,7 @@ const Team = () => {
                         <img
                           src={selectedMember.photo}
                           alt={selectedMember.name}
+                          loading="lazy"
                           className="h-full w-full object-cover"
                         />
                       </div>

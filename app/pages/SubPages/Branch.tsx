@@ -49,6 +49,7 @@ const Branch = () => {
                                     <img
                                         src={event.icon}
                                         alt={event.name}
+                                        loading="lazy"
                                         draggable={false}
                                         className="h-full w-full object-contain"
                                     />

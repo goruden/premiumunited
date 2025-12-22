@@ -34,6 +34,7 @@ const About = () => {
                     <img
                         src="/2.jpg"
                         alt="About illustration"
+                        loading="lazy"
                         draggable={false}
                         className="rounded-2xl shadow-xl object-cover w-full lg:w-[500px] dark:brightness-85"
                     />

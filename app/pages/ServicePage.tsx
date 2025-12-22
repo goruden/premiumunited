@@ -72,8 +72,8 @@ const ServicePage = () => {
                             <img src='./1.jpg' loading="lazy" alt='1' draggable={false} className='rounded-2xl h-100 md:h-144 w-full object-cover' />
                         </div>
                         <div className='grid gap-5'>
-                            <img src='./10.jpg' alt='10' draggable={false} className='rounded-2xl h-69.5 w-full object-cover' />
-                            <img src='./15.jpg' alt='15' draggable={false} className='rounded-2xl h-69.5 w-full object-cover' />
+                            <img src='./10.jpg' loading="lazy" alt='10' draggable={false} className='rounded-2xl h-69.5 w-full object-cover' />
+                            <img src='./15.jpg' loading="lazy" alt='15' draggable={false} className='rounded-2xl h-69.5 w-full object-cover' />
                         </div>
                     </div>
                 </motion.div>
@@ -98,9 +98,9 @@ const ServicePage = () => {
                             </p>
                         </div>
                         <div className='col-span-1 md:col-span-2 md:grid md:grid-rows-2 gap-5 space-y-4 md:space-y-0'>
-                            <img src='./10.jpg' alt='10' draggable={false} className='col-span-2 w-full rounded-2xl h-70 object-cover' />
-                            <img src='./15.jpg' alt='15' draggable={false} className='rounded-2xl h-70 w-full object-cover' />
-                            <img src='./15.jpg' alt='15' draggable={false} className='rounded-2xl h-70 w-full object-cover' />
+                            <img src='./10.jpg' loading="lazy" alt='10' draggable={false} className='col-span-2 w-full rounded-2xl h-70 object-cover' />
+                            <img src='./15.jpg' loading="lazy" alt='15' draggable={false} className='rounded-2xl h-70 w-full object-cover' />
+                            <img src='./15.jpg' loading="lazy" alt='15' draggable={false} className='rounded-2xl h-70 w-full object-cover' />
                         </div>
                     </div>
                 </motion.div>
@@ -125,11 +125,11 @@ const ServicePage = () => {
                             </p>
                         </div>
                         <div className='flex flex-col gap-5'>
-                            <img src='./10.jpg' alt='10' draggable={false} className='rounded-2xl h-70 w-full object-cover' />
-                            <img src='./15.jpg' alt='15' draggable={false} className='rounded-2xl h-70 w-full object-cover' />
+                            <img src='./10.jpg' loading="lazy" alt='10' draggable={false} className='rounded-2xl h-70 w-full object-cover' />
+                            <img src='./15.jpg' loading="lazy" alt='15' draggable={false} className='rounded-2xl h-70 w-full object-cover' />
                         </div>
                         <div className="">
-                            <img src='./3.jpg' alt='3' draggable={false} className='rounded-2xl h-100 md:h-144 w-full object-cover' />
+                            <img src='./3.jpg' loading="lazy" alt='3' draggable={false} className='rounded-2xl h-100 md:h-144 w-full object-cover' />
                         </div>
                     </div>
                 </motion.div>
