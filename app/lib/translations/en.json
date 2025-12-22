@@ -557,6 +557,9 @@
     "email": " example@domain.com ",
     "description": " Your description... ",
     "message": " Your message... ",
-    "submit": "Submit" 
+    "submit": "Submit",
+    "submitting": "Sending...",
+    "success": "Success",
+    "error": "Error"
   }
 }

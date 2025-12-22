@@ -19,27 +19,27 @@ const HomePage = () => {
   }
 
   return (
-    <motion.section className="max-w-6xl mx-auto flex items-center px-5 md:px-10" ref={containerRef}
+    <motion.section className="max-w-6xl mx-auto flex items-center px-5 md:px-10 lg:my-20" ref={containerRef}
       initial="hidden"
       whileInView="show"
       viewport={{ once: false, amount: 0.1 }}>
       <div className="container mx-auto py-20 flex flex-col-reverse md:flex-row items-center gap-12 text-center md:text-left">
         <div className="flex-1">
           <motion.p
-            variants={variants}
-            className="mb-3 text-sm text-red-600">{t('HomePage.line1')}
+            variants={xVariants}
+            className="mb-3 text-base text-red-600">{t('HomePage.line1')}
           </motion.p>
           <motion.p
-            variants={variants}
+            variants={xVariants}
             className="mb-4 text-3xl md:text-4xl font-bold">{t('HomePage.line2')}
           </motion.p>
           <motion.p
-            variants={variants}
+            variants={xVariants}
             className="mb-6 text-lg md:text-xl text-neutral-700 dark:text-neutral-200">{t('HomePage.line3')}
           </motion.p>
 
           <motion.div
-            variants={variants}
+            variants={xVariants}
             className="flex justify-center md:justify-start gap-4 text-bae md:text-lg">
             <Link
               key={"about"}

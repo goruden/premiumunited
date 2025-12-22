@@ -3,8 +3,8 @@ import { motion } from 'framer-motion'
 
 const About = () => {
     const variants = {
-        hidden: { opacity: 0, y: 20 },
-        show: { opacity: 1, y: 0 }
+        hidden: { opacity: 0, x: -20 },
+        show: { opacity: 1, x: 0 }
     }
 
     const xVariants = {
@@ -13,10 +13,10 @@ const About = () => {
     }
     const { t } = useTranslation()
     return (
-        <div className="max-w-6xl mx-auto">
-            <div className="py-20 md:py-20 lg:py-30 px-5 md:px-10 flex flex-col-reverse lg:flex-row items-center justify-center">
+        <div className="max-w-6xl mx-auto pt-3 md:pt-20">
+            <div className="py-20 md:py-20 lg:py-30 px-5 md:px-10 flex flex-col-reverse lg:flex-row items-center justify-center gap-5">
                 <motion.div
-                    variants={xVariants}
+                    variants={variants}
                     initial="hidden"
                     whileInView="show"
                     viewport={{ once: false, amount: 0.1 }}
@@ -35,7 +35,7 @@ const About = () => {
                         src="/2.jpg"
                         alt="About illustration"
                         draggable={false}
-                        className="rounded-2xl shadow-xl object-cover w-[300px] md:w-[500px] dark:brightness-85"
+                        className="rounded-2xl shadow-xl object-cover w-full lg:w-[500px] dark:brightness-85"
                     />
                 </motion.div>
             </div>

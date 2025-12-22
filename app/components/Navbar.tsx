@@ -84,11 +84,11 @@ const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false)
 
     return (
-        <div className={`fixed w-full flex justify-between gap-10 items-center p-5 transition-all z-50 duration-500 ease-in-out
+        <div className={`fixed w-full flex items-center p-5 transition-all z-50 duration-500 ease-in-out justify-between lg:gap-10
             ${isScrolled 
-                ? 'bg-black/10 backdrop-blur shadow-md dark:bg-white/10' 
-                : ''}`}>
-            <div className="lg:hidden order-1">
+                ? 'bg-black/10 backdrop-blur shadow-md dark:bg-white/10 h-16 md:h-18' 
+                : 'h-24'}`}>
+            <div className="lg:hidden order-1 flex-1">
                 <button
                     className="flex flex-col justify-center items-center w-10 h-10 rounded hover:bg-gray-200 dark:hover:bg-gray-700"
                     onClick={() => setMenuOpen(!menuOpen)}
@@ -118,10 +118,13 @@ const Navbar = () => {
                     </div>
                 )}
             </div>
-            <div className="items-center order-2">
-                <span>Logo</span>
+            <div className="items-center order-2 flex-2 md:flex-1">
+                <Link to="home" className='cursor-pointer'>
+                    <img src="/united_logo.svg" alt="Logo" className="block dark:hidden h-15" />
+                    <img src="/united_logo2.svg" alt="Logo" className="hidden dark:block h-15" />
+                </Link>
             </div>
-            <div className="flex-1 justify-between items-center gap-6 order-3 hidden lg:flex max-w-5xl mx-auto">
+            <div className="order-3 hidden lg:flex items-center justify-between w-full max-w-5xl mx-auto flex-3">
                 {navLinks.map((link) => (
                     <Link
                         key={link.id}
@@ -134,9 +137,9 @@ const Navbar = () => {
                     </Link>
                 ))}
             </div>
-            <div className="order-4 flex items-center gap-2">
+            <div className="order-4 flex items-center gap-4 flex-1 justify-end">
                 <button
-                    className="rounded-md h-10 w-10 cursor-pointer bg-neutral-300 dark:bg-neutral-600 items-center flex justify-center"
+                    className="rounded-md p-1 md:p-0 h-8 md:h-10 w-8 md:w-10 cursor-pointer bg-neutral-300 dark:bg-neutral-600 items-center flex justify-center"
                     onClick={toggleDarkMode}
                 >
                     {isDarkMode ? (
@@ -159,7 +162,7 @@ const Navbar = () => {
                         setLanguage(nextLang)
                         i18next.changeLanguage(nextLang)
                     }}
-                    className="text-3xl px-2 rounded-md font-semibold cursor-pointer bg-neutral-300 dark:bg-neutral-600 flex items-center justify-center"
+                    className="text-xl md:text-2xl lg:text-3xl justify-center rounded-md h-8 md:h-10 w-8 md:w-10 cursor-pointer bg-neutral-300 dark:bg-neutral-600 items-center"
                 >
                     {languageOptions.find((opt) => opt.code === language)?.language}
                 </button>

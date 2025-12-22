@@ -19,7 +19,7 @@ const ServicePage = () => {
     const ref = useRef<HTMLDivElement>(null)
 
     return (
-        <div ref={ref} id="services" className="max-w-6xl w-full mx-auto pt-20 lg:pt-30 px-10">
+        <div ref={ref} id="services" className="max-w-6xl w-full mx-auto py-20 lg:py-30 px-10">
             <motion.p
                 variants={variants}
                 initial="hidden"
@@ -56,7 +56,7 @@ const ServicePage = () => {
                     whileInView="show"
                     viewport={{ once: true, amount: 0.2 }}
                 >
-                    <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4'>
+                    <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5'>
                         <div className='md:col-span-2 lg:col-span-1'>
                             <p className='text-xs text-neutral-500 dark:text-neutral-400'>
                                 {t('Services.subtitle1')}
@@ -69,11 +69,11 @@ const ServicePage = () => {
                             </p>
                         </div>
                         <div className="md:row-span-2 md:col-span-1">
-                            <img src='./1.jpg' draggable={false} className='rounded-2xl h-100 md:h-144 w-full object-cover' />
+                            <img src='./1.jpg' alt='1' draggable={false} className='rounded-2xl h-100 md:h-144 w-full object-cover' />
                         </div>
-                        <div className='grid gap-4'>
-                            <img src='./10.jpg' draggable={false} className='rounded-2xl h-70 w-full object-cover' />
-                            <img src='./15.jpg' draggable={false} className='rounded-2xl h-70 w-full object-cover' />
+                        <div className='grid gap-5'>
+                            <img src='./10.jpg' alt='10' draggable={false} className='rounded-2xl h-69.5 w-full object-cover' />
+                            <img src='./15.jpg' alt='15' draggable={false} className='rounded-2xl h-69.5 w-full object-cover' />
                         </div>
                     </div>
                 </motion.div>
@@ -85,7 +85,7 @@ const ServicePage = () => {
                     viewport={{ once: true, amount: 0.2 }}
                     className=''
                 >
-                    <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4'>
+                    <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5'>
                         <div className='lg:order-2 col-span-2 lg:col-span-1'>
                             <p className='text-sm text-neutral-500 dark:text-neutral-400'>
                                 {t('Services.subtitle2')}
@@ -97,10 +97,10 @@ const ServicePage = () => {
                                 {t('Services.description2')}
                             </p>
                         </div>
-                        <div className='col-span-1 md:col-span-2 md:grid md:grid-rows-2 gap-4 space-y-4 md:space-y-0'>
-                            <img src='./10.jpg' draggable={false} className='col-span-2 w-full rounded-2xl h-70 object-cover' />
-                            <img src='./15.jpg' draggable={false} className='rounded-2xl h-70 w-full object-cover' />
-                            <img src='./15.jpg' draggable={false} className='rounded-2xl h-70 w-full object-cover' />
+                        <div className='col-span-1 md:col-span-2 md:grid md:grid-rows-2 gap-5 space-y-4 md:space-y-0'>
+                            <img src='./10.jpg' alt='10' draggable={false} className='col-span-2 w-full rounded-2xl h-70 object-cover' />
+                            <img src='./15.jpg' alt='15' draggable={false} className='rounded-2xl h-70 w-full object-cover' />
+                            <img src='./15.jpg' alt='15' draggable={false} className='rounded-2xl h-70 w-full object-cover' />
                         </div>
                     </div>
                 </motion.div>
@@ -112,7 +112,7 @@ const ServicePage = () => {
                     viewport={{ once: true, amount: 0.2 }}
                     className=''
                 >
-                    <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4'>
+                    <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5'>
                         <div className='md:col-span-2 lg:col-span-1'>
                             <p className='text-sm text-neutral-500 dark:text-neutral-400'>
                                 {t('Services.subtitle3')}
@@ -124,12 +124,12 @@ const ServicePage = () => {
                                 {t('Services.description3')}
                             </p>
                         </div>
-                        <div className='flex flex-col gap-4'>
-                            <img src='./10.jpg' draggable={false} className='rounded-2xl h-70 w-full object-cover' />
-                            <img src='./15.jpg' draggable={false} className='rounded-2xl h-70 w-full object-cover' />
+                        <div className='flex flex-col gap-5'>
+                            <img src='./10.jpg' alt='10' draggable={false} className='rounded-2xl h-70 w-full object-cover' />
+                            <img src='./15.jpg' alt='15' draggable={false} className='rounded-2xl h-70 w-full object-cover' />
                         </div>
                         <div className="">
-                            <img src='./3.jpg' draggable={false} className='rounded-2xl h-100 md:h-144 w-full object-cover' />
+                            <img src='./3.jpg' alt='3' draggable={false} className='rounded-2xl h-100 md:h-144 w-full object-cover' />
                         </div>
                     </div>
                 </motion.div>

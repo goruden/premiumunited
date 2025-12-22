@@ -28,7 +28,7 @@ export default function Timeline() {
         <div className="w-full">
             <div className="max-w-6xl mx-auto py-10 px-5 md:px-10">
                 <motion.div
-                    variants={xVariants}
+                    variants={variants}
                     initial="hidden"
                     whileInView="show"
                     viewport={{ once: false, amount: 0.2 }}

@@ -29,10 +29,10 @@ const Branch = () => {
                 <p className="pb-5 font-semibold text-2xl md:text-3xl">{t("BranchPage.title")}</p>
                 <p className="pb-5 text-neutral-700 dark:text-neutral-200">{t("BranchPage.line1")}</p>
                 <div className="flex flex-col md:flex-row  gap-6 items-center">
-                    <div className="flex-1 grid grid-cols-3 lg:grid-cols-4 pt-5 md:pt-10 gap-6 md:gap-8 flex-wrap justify-center md:justify-start">
+                    <div className="flex-1 grid grid-cols-3 lg:grid-cols-4 pt-5 md:pt-10 gap-6 flex-wrap justify-center md:justify-start">
                         {events.map((event, index) => (
                             <motion.div
-                                variants={xVariants}
+                                variants={variants}
                                 initial="hidden"
                                 whileInView="show"
                                 viewport={{ once: false, amount: 0.2 }}

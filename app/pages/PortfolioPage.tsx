@@ -25,10 +25,7 @@ const images = [
     "20.jpg",
     "21.jpg",
     "22.jpg",
-    "23.jpg",
-    "24.jpg",
-    "25.JPG",
-    "26.JPG",
+    "23.jpg"
 ]
 
 const PortfolioPage = () => {
@@ -95,7 +92,7 @@ const PortfolioPage = () => {
                         {images.map((img, idx) => (
                             <motion.div
                                 key={idx}
-                                variants={xVariants}
+                                variants={variants}
                                 initial="hidden"
                                 whileInView="show"
                                 viewport={{ once: true, amount: 0.1 }}

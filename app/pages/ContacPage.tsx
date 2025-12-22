@@ -108,8 +108,8 @@ const AnimatedNumberCard = ({ member, index }: { member: any, index: number }) =
             whileInView="show"
             viewport={{ once: true, amount: 0.7 }}
         >
-            <svg xmlns="http://www.w3.org/2000/svg" color='red' fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" className="size-25">
-              <path stroke-linecap="round" stroke-linejoin="round" d={member.icon} />
+            <svg xmlns="http://www.w3.org/2000/svg" color='red' fill="none" viewBox="0 0 24 24" strokeWidth="1.2" stroke="currentColor" className="size-25">
+              <path strokeLinecap="round" strokeLinejoin="round" d={member.icon} />
             </svg>
             <div className="mt-5 text-xl md:text-2xl font-semibold">
                 <NumberFlow value={value} />

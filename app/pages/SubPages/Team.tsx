@@ -54,7 +54,7 @@ const Team = () => {
             <motion.button
               key={`team-${idx}-${member.name || 'member'}`}
               type="button"
-              variants={xVariants}
+              variants={variants}
               initial="hidden"
               whileInView="show"
               viewport={{ once: false, amount: 0.1 }}

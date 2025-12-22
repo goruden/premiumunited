@@ -1,76 +1,31 @@
-import {useRef} from "react"
-// import FormControl from "@mui/material/FormControl"
-// import InputLabel from "@mui/material/InputLabel"
+import {useRef, useState} from "react"
 import TextField from '@mui/material/TextField'
 import { useTranslation } from 'react-i18next'
-// import MenuItem from "@mui/material/MenuItem"
-// import { IMaskInput } from 'react-imask'
-// import Input from "@mui/material/Input"
 import emailjs from '@emailjs/browser'
 import "./style.css"
 
-// interface CustomProps {
-//   onChange: (event: React.ChangeEvent<HTMLInputElement>) => void
-//   name: string
-// }
-
-// const TextMaskCustom = React.forwardRef<HTMLInputElement, CustomProps>(
-//   function TextMaskCustom(props, ref) {
-//     const { onChange, ...other } = props
-//     return (
-//       <IMaskInput
-//         {...other}
-//         mask="0000-0000"
-//         definitions={{
-//           '#': /[1-9]/,
-//         }}
-//         inputRef={ref}
-//         onAccept={(value: any) => {
-//           const event = {
-//             target: {
-//               name: props.name,
-//               value: value,
-//             },
-//           } as React.ChangeEvent<HTMLInputElement>
-//           onChange(event)
-//         }}
-//         overwrite
-//       />
-//     )
-//   },
-// )
-
 export default function Form() {
   const form = useRef<HTMLFormElement>(null)
+  const [isSubmitting, setIsSubmitting] = useState(false)
+  
   const sendEmail = (e: { preventDefault: () => void }) => {
     e.preventDefault()
-    if (form.current) {
+    if (form.current && !isSubmitting) {
+      setIsSubmitting(true)
       emailjs.sendForm("service_56ghq9w", "template_r06m1wh", form.current, "3cgOGnELJo2TmEVP7").then(() => {
-        alert("SUCCESS")
+        alert(t("FormPage.success"))
         form.current?.reset()
+        setIsSubmitting(false)
       }, 
       (error) => {
-        alert(`ERROR: ${error.text}`)
+        alert(`${t("FormPage.error")} ${error.text}`)
+        setIsSubmitting(false)
       })
     }
   }
-
-  // const handleSubmit = (e: { preventDefault: () => void }) => {
-  //   e.preventDefault()
-  // }
   
   const { t } = useTranslation()
-  // const [values, setValues] = React.useState({
-  //   textmask: '0000-0000',
-  //   numberformat: '1320',
-  // })
 
-  // const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-  //   setValues({
-  //     ...values,
-  //     [event.target.name]: event.target.value,
-  //   })
-  // }
   return (
     <div className="max-w-2xl mx-auto bg-neutral-secondary-medium border-default-medium shadow-2xl rounded-2xl p-6 md:p-7 bg-white dark:bg-[#222222] transition-colors duration-500">
       <h2 className="text-lg md:text-xl font-semibold text-center">
@@ -137,9 +92,14 @@ export default function Form() {
         {/* SUBMIT */}
         <button
           type="submit"
-          className="w-full bg-red-600 hover:bg-red-500 text-white py-3 rounded-xl font-semibold"
+          disabled={isSubmitting}
+          className={`w-full py-3 rounded-xl font-semibold cursor-pointer transition-colors ${
+            isSubmitting 
+              ? 'bg-gray-400 text-gray-200 cursor-not-allowed' 
+              : 'bg-red-600 hover:bg-red-500 text-white'
+          }`}
         >
-          {t("FormPage.submit")}
+          {isSubmitting ? t("FormPage.submitting") : t("FormPage.submit")}
         </button>
       </form>
     </div>
