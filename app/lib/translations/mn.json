@@ -1,0 +1,568 @@
+{
+    "Navbar": {
+        "home": "Нүүр",
+        "about": "Тухай",
+        "services": "Үйлчилгээ",
+        "portfolio": "Цомог",
+        "contact": "Холбоо барих"
+    },
+    "HomePage": {
+        "line1": "Манай сайтад тавтай морилно уу",
+        "line2": "Хүргэлтээс цааш — Бид өсөлт болон боломжийг түгээнэ",
+        "line3": "Премиум Юнайтэд нь CU Mongolia-тай хамтран ажиллах, ханган нийлүүлэгчийн өргөн сүлжээ болон хүчирхэг логистикийн чадавхаараа Монголын анхны бүрэн нэгдсэн нийлүүлэлтийн платформыг хөгжүүлэгч юм. ",
+        "button1": "Эхлэх",
+        "button2": "Дэлгэрэнгүй",
+        "small line1": "lorem lorem lorem lorem lorem"
+    },
+    "AboutPage": {
+        "title": "Манай компанийн тухай",
+        "line1": "Бид хэн бэ?",
+        "description": "Premium United нь * онд байгуулагдан, Монгол Улсын хүнсний нийлүүлэлт, логистикийн салбарт шинэ түвшний нэгдсэн экосистемийг бүтээх зорилготой ажиллаж байна. Манай компани нь бөөний түгээлт, хүйтэн түгээлт, боловсруулах төв, аймаг хоорондын буцаан таталт, Q-commerce, болон last-mile хүргэлтийн үйлчилгээг нэг платформ дээр уялдуулан, тасралтгүй ажиллагаатай нийлүүлэлтийн сүлжээг бий болгож байна. Бидний зорилго бол Монголын хүнсний нийлүүлэлтийг орчин үеийн, нэгдсэн, тогтвортой систем болгон хөгжүүлж, улс орон даяар өсөлт, хүртээмж, боломжийг түгээх юм."
+    },
+    "TeamPage": {
+        "title": "Манай багтай танилц",
+        "description": "Бид мэргэжлийн баг хамт олон"
+    },
+    "team": [
+    {
+      "name": "Соронзоннайгал Дашдорж",
+      "title": "“Премиум Юнайтед” ХХК-ийн Гүйцэтгэх Захирал",
+      "subtitle": "Премиум Юнайтед удирдлага",
+      "subtitle1": "Мэргэжлийн Товч Танилцуулга",
+      "description1": "Санхүү, хөрөнгө оруулалт, санхүүгийн төлөвлөлт болон академик судалгааны чиглэлээр 10+ жилийн туршлагатай санхүүгийн эксперт. Монгол Улсын Их Сургуулийн Эдийн засгийн магистр. Хөрөнгө оруулалтын үнэлгээ, бизнес хөгжүүлэлт, санхүүгийн загварчлал болон тогтвортой хөгжлийн бодлого боловсруулах чиглэлээр туршлагатай.",
+      "subtitle2": "Туршлага",
+      "description2": [
+        {
+          "line": "Гүйцэтгэх захирал, “Премиум Юнайтед” ХХК — 2024.10 – Одоог хүртэл"
+        },
+        {
+          "line": "Гүйцэтгэх захирал, Сэнтрал Коммерс & Сэнтрал Кофе Роустинг ХХК — 2023.03 – Одоог хүртэл",
+          "subtitle": "Бизнесийн үйл ажиллагаа, стратегийн төлөвлөлтийг удирдах."
+        },
+        {
+          "line": "Санхүүгийн захирал, Wave3 Investment Partners LLC — 2022.03 – Одоог хүртэл",
+          "subtitle": "Бизнес хөгжүүлэлт, төслийн сонголт, хөрөнгө оруулалтын стратеги."
+        },
+        {
+          "line": "Санхүүгийн захирал, Central Express CVS JSC — 2021.06 – 2022.06",
+          "subtitle": "Санхүүгийн менежмент, төлөвлөлт, корпорацийн санхүүжилт."
+        },
+        {
+          "line": "Хөрөнгө оруулалтын менежер, Премиум Групп — 2019.11 – 2022.03",
+          "subtitle": "Бизнесийн үнэлгээ, санхүүгийн загварчлал болон судалгаа."
+        },
+        {
+          "line": "Ахлах багш, Санхүүгийн их сургууль — 2011.08 – 2019.11",
+          "subtitle": "Эдийн засаг, санхүүгийн чиглэлээр хичээл заах, академик судалгаа хийх."
+        },
+        {
+          "line": "Зөвлөх ба Багийн Ахлагч — UNITAR, NUBIA зэрэг үндэсний болон олон улсын төслүүд",
+          "subtitle": "Тогтвортой санхүүгийн боловсрол, концессийн гэрээний санхүүгийн зөвлөх үйлчилгээ."
+        }
+      ],
+      "photo": "undefinedman.jpg"
+    },
+    {
+      "name": "Энхбат Ариунбаяр",
+      "title": "Ложистикийн үйл ажиллагаа хариуцсан захирал",
+      "subtitle": "Ложистикийн газар",
+      "subtitle1": "Товч Намтар",
+      "description1": "FMCG болон ложистикийн салбарт 6+ жилийн туршлагатай ханган нийлүүлэлт, худалдан авалт, ложистикийн удирдлагын мэргэжилтэн. Санхүү эдийн засгийн их сургууль (СЭЗИС)-ийн Магистр, БНСУ-ын Dongguk их сургуулийн Бакалаврын зэрэгтэй. Англи, Солонгос хэлэнд чөлөөтэй, Турк хэлний анхан шатны мэдлэгтэй. Стратегийн худалдан авалт, нийлүүлэгчтэй хэлцэл хийх, өртөг оновчлох, FMCG үйл ажиллагаа удирдахад өндөр ур чадвартай. Багаар ажиллуулах, өндөр ачаалалтай ложистикийн үйл ажиллагааг оновчтой удирдах туршлагатай.",
+      "subtitle2": "Туршлага",
+      "description2": [
+          {
+            "line": "Ложистикийн Газрын Захирал, Premium United — 2024.10 – Одоог хүртэл"
+          },
+          {
+            "line": "Ложистикийн Хэлтсийн Дарга, Premium Nexus JSC (CU Mongolia) — 2024",
+            "subtitle": "Агуулах, тээврийн ажиллагаа болон ложистикийн бүх шатны үйл явцыг удирдсан."
+          },
+          {
+            "line": "Нийлүүлэлтийн Сүлжээний Хэлтсийн Дарга, Premium Nexus JSC — 2022 – 2024",
+            "subtitle": "Ханган нийлүүлэлтийн стратеги, нийлүүлэгчтэй хэлцэл, гүйцэтгэлийн шинжилгээ удирдсан."
+          },
+          {
+            "line": "Худалдан Авалтын Хэлтсийн Менежер — 2021 – 2022",
+            "subtitle": "Хэлтсийн зохион байгуулалт, багийн манлайллыг хариуцсан."
+          },
+          {
+            "line": "Ахлах Худалдан Авалт Мэргэжилтэн — 2020 – 2021"
+          },
+          {
+            "line": "Худалдан Авалт Мэргэжилтэн — 2018 – 2020",
+            "subtitle": "2021 онд “Шилдэг Ажилтан” шагнал хүртсэн."
+          }
+        ],
+      "photo": "undefinedman.jpg"
+    },
+    {
+      "name": "Түмэндэмбэрэл Сарангуа",
+      "title": "Үйл ажиллагааны ахлах менежер",
+      "subtitle": "Үйл ажиллагааны газар",
+      "subtitle1": "Товч Намтар",
+      "description1": "Агуулах, ложистикийн үйл ажиллагаанд өргөн туршлагатай түгээлтийн төвийн менежер. CU дэлгүүрүүдийн түгээлтийг өргөжүүлэх, ERP системийг нэвтрүүлэх томоохон төслүүдийг удирдсан (80-аас 480 дэлгүүр хүртэл). Монгол Улсын Үндэсний Их Сургуулийн Нягтлан бодох бүртгэл, аудитын бакалавртай. Үйл ажиллагааны бүтцийн өөрчлөлт, системийн оновчлол, стратегийн төлөвлөлтөд мэргэшсэн. Үр ашиг сайжруулах, ложистикийн үйл ажиллагааг өргөжүүлэхэд амжилттай туршлагатай.",
+      "subtitle2": "Туршлага",
+      "description2": [
+        {
+          "line": "Түгээлтийн Төвийн Менежер, Premium United — 2024.10 – Одоог хүртэл"
+        },
+        {
+          "line": "Түгээлтийн Төвийн Менежер, PU / CU Convenience Store Network"
+        },
+        {
+          "line": "Агуулахын үйл ажиллагааг 80 дэлгүүрээс 480 хүртэл 5,200 м² талбайд өргөжүүлсэн"
+        },
+        {
+          "line": "Үйл ажиллагааны урсгалд нийцүүлэн 4 ERP/системийн нэвтрүүлэлтийг амжилттай удирдсан"
+        },
+        {
+          "line": "Агуулахын бүтцийг шинэчилж, багийн зохион байгуулалтыг оновчтой болгосон"
+        },
+        {
+          "line": "5 өдөр тутмын тайлан, 7 компанийн бодлого, 28 SOP боловсруулсан"
+        },
+        {
+          "line": "Үйл явцын зураглал, ажлын үүргийн зохицуулалтаар үр ашиггүй ажиллагааг арилгасан"
+        },
+        {
+          "line": "Түгээлийн нарийвчлалыг хянаж, дэлгүүрт хүргэх барааны зөрүүг бууруулсан"
+        },
+        {
+          "line": "Департамент хоорондын хамтын ажиллагааг тогтмол удирдан, сайжруулалтыг хэрэгжүүлсэн"
+        }
+      ],
+      "photo": "undefinedwoman.jpg"
+    },
+    {
+      "name": "Очирбат Чинзориг",
+      "title": "Хүйтэн түгээлтийн төвийн менежер",
+      "subtitle": "Хүйтэн түгээлтийн төв",
+      "subtitle1": "Товч Намтар",
+      "description1": "Ложистик, гаалийн бүрдүүлэлт, агуулахын үйл ажиллагааны чиглэлээр туршлагатай хүйтэн лангийн менежер. Эдийн Засгийн бакалаврын зэрэгтэй бөгөөд БНСУ-д Солонгос хэлний сургалтанд хамрагдсан. Монголын CU дэлгүүрийн хүйтэн лангийн ложистикийг удирдаж байсан. Солонгос компанитай олон улсын төслийн зохицуулалт, ложистикт туршлагатай. Найдвартай, манлайлалтай, үйл ажиллагааны үр бүтээлтэйгээр үнэлэгдсэн.",
+      "subtitle2": "Туршлага",
+      "description2": [
+        {
+          "line": "Хүйтэн Лангийн Агуулахын Менежер, Premium United LLC – CU Stores — 5 жил",
+          "subtitle": "Хүйтэн агуулахын өдөр тутмын үйл ажиллагааг удирдсан. Өртөгийн хяналт, нөөц, ханган нийлүүлэлтийн зохицуулалтыг хянасан. Ахлах удирдлага, худалдан авалтын менежерүүдэд тайлагнасан."
+        },
+        {
+          "line": "Гаалийн Бүрдүүлэлтийн Менежер, Nomin Holding — 6 сар",
+          "subtitle": "Импортын барааны гаалийн бүрдүүлэлт, агуулахын дотоод ложистикийг удирдсан."
+        },
+        {
+          "line": "Гүйцэтгэх Туслах, VELS Blue Bridge (Солонгосын хөрөнгө оруулалттай компани) — 4 жил",
+          "subtitle": "Хятадад зах зээлийн үнэ судалгаа хийж, аналитик тайлан боловсруулсан. Солонгос удирдлагуудад олон улсын үйл ажиллагаанд дэмжлэг үзүүлсэн."
+        },
+        {
+          "line": "Гүйцэтгэх Туслах, KYL Logistics — 4 жил",
+          "subtitle": "2016 оны АСЕМ дээд хэмжээний уулзалтын тээвэр зэрэг томоохон төслүүдэд дэмжлэг үзүүлсэн. Шинэ Улаанбаатар нисэх онгоцны буудлын төслийн ачаа болон гаалийн зохицуулалтыг хариуцсан."
+        }
+      ],
+      "photo": "undefinedman.jpg"
+    },
+    {
+      "name": "Гансүх Батсуурь",
+      "title": "Тээврийн хэсгийн менежер",
+      "subtitle": "Тээврийн хэсэг",
+      "subtitle1": "Товч Намтар",
+      "description1": "Ложистик, тээврийн салбарт 15+ жилийн туршлагатай мэргэжилтэн. Флит менежмент, хүйтэн лангийн үйл ажиллагаа, тээврийн оптимизацид мэргэшсэн. Уул уурхайн инженерийн технологийн бакалаврын зэрэгтэй. Баг удирдлага, үйл ажиллагааны зохион байгуулалт, төлөвлөлт, хэрэгжилтийг үр дүнтэй гүйцэтгэх өндөр ур чадвартай.",
+      "subtitle2": "Туршлага",
+      "description2": [
+        {
+          "line": "Тээврийн Менежер, Premium United LLC — 2024 – Одоог хүртэл",
+          "subtitle": "Хүйтэн лангийн үйл ажиллагаанд төвлөрч, ложистик, тээврийн үйл ажиллагааг удирдаж байгаа."
+        },
+        {
+          "line": "Гүйцэтгэх Захирал, New Discovery LLC — 2008 – 2024",
+          "subtitle": "Компанийн үйл ажиллагаа, стратеги, ложистикийн зохицуулалтыг удирдсан."
+        },
+        {
+          "line": "Менежер, Mining Service LLC — 2005 – 2008",
+          "subtitle": "Үйл ажиллагаа болон захиргааны удирдлагыг хариуцсан."
+        },
+        {
+          "line": "Дэд Түвшний Уул уурхайн Ахлах, Bor-Undur Mining & Processing Plant — 2001 – 2003",
+          "subtitle": "Уул уурхайн доод түвшний үйл ажиллагааг хянасан."
+        }
+      ],
+      "photo": "undefinedman.jpg"
+    },
+    {
+      "name": "Төмөрөө Түвшинзул",
+      "title": "ХЭМАБ-ын менежер",
+      "subtitle": "ХЭМАБ",
+      "subtitle1": "lorem",
+      "description1": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus ipsum voluptatem iusto, eos debitis aperiam possimus eius ducimus. Dicta quae similique tempora accusantium delectus at, autem eius fugiat explicabo quam tempore enim. Veritatis tenetur eligendi necessitatibus, nisi amet id? Vel quod nulla architecto recusandae rem quo saepe laborum porro ducimus praesentium sapiente debitis in cum beatae doloremque repellendus commodi facilis reprehenderit dignissimos, nostrum reiciendis? Error repellat veniam quasi deleniti natus dolores provident perspiciatis beatae numquam eius voluptatum corporis laudantium quos fugit sunt facilis doloremque placeat, iste reiciendis alias exercitationem consequuntur voluptas ipsum. Sequi optio, eum sapiente fugit omnis nobis nostrum.",
+      "subtitle2": "lorem",
+      "description2": [
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        },
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        }
+      ],
+      "photo": "undefinedwoman.jpg"
+    },
+    {
+      "name": "Цагаандэрэм Шижиртуяа",
+      "title": "Хүний Нөөцийн Менежер",
+      "subtitle": "Хүний Нөөцийн Газар",
+      "subtitle1": "Товч Намтар",
+      "description1": "Хүний нөөцийн менежмент, ажилтны сонгон шалгаруулалт, сургалт, хөдөлмөрийн харилцаа болон байгууллагын хөгжилд 10+ жилийн туршлагатай мэргэжилтэн. Англи хэлний орчуулгын бакалавр, Түүх-Этнологийн хоёр дахь бакалаврын зэрэгтэй. Хүний нөөцийн удирдлага, байгууллагын соёл, ажилтны идэвхжүүлэлт, хөдөлмөрийн хууль, бизнесийн хөгжил зэрэг чиглэлээр мэргэжлийн олон сургалтад хамрагдсан. HR-ийн бүрэн үйл ажиллагаа—ажилтан сонгон шалгаруулалт, онбординг, хадгалалт, урамшууллын тогтолцоо, дотоод бодлого боловсруулах, маргаан шийдвэрлэх, гүйцэтгэлийн үнэлгээнд өндөр ур чадвартай. Англи хэлний мэдлэг 80%, Орос хэл 50%.",
+      "subtitle2": "Туршлага",
+      "description2": [
+        {
+          "line": "Хүний Нөөцийн Менежер, Premium United LLC — 2024.10 – Одоо"
+        },
+        {
+          "line": "Хүний Нөөцийн Менежер, Central Express CVS JSC — 2023.05 – 2024"
+        },
+        {
+          "line": "Хүний Нөөцийн Менежер, Nachin Zaan LLC — 2016 – 2023"
+        },
+        {
+          "line": "Хүний Нөөцийн Менежер, Erdenet Carpet LLC — 2015"
+        },
+        {
+          "line": "Зорчигчийн Үйлчилгээний Ахлах, Eznis Airways LLC — 2014"
+        },
+        {
+          "line": "Ахлах Хүний Нөөцийн Мэргэжилтэн, Eznis Airways LLC — 2010 – 2014"
+        },
+        {
+          "line": "Зорчигч Бүртгэгч, Eznis Airways LLC — 2005 – 2010"
+        }
+      ],
+      "photo": "undefinedwoman.jpg"
+    },
+    {
+      "name": "Эрдэнэбат Золбоо",
+      "title": "Санхүүгийн албаны дарга",
+      "subtitle": "Санхүүгийн алба",
+      "subtitle1": "lorem",
+      "description1": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus ipsum voluptatem iusto, eos debitis aperiam possimus eius ducimus. Dicta quae similique tempora accusantium delectus at, autem eius fugiat explicabo quam tempore enim. Veritatis tenetur eligendi necessitatibus, nisi amet id? Vel quod nulla architecto recusandae rem quo saepe laborum porro ducimus praesentium sapiente debitis in cum beatae doloremque repellendus commodi facilis reprehenderit dignissimos, nostrum reiciendis? Error repellat veniam quasi deleniti natus dolores provident perspiciatis beatae numquam eius voluptatum corporis laudantium quos fugit sunt facilis doloremque placeat, iste reiciendis alias exercitationem consequuntur voluptas ipsum. Sequi optio, eum sapiente fugit omnis nobis nostrum.",
+      "subtitle2": "lorem",
+      "description2": [
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        },
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        }
+      ],
+      "photo": "undefinedman.jpg"
+    },
+    {
+      "name": "Даваагарав Оюунтунгалаг",
+      "title": "Төлөвлөлт, санхүүгийн менежер",
+      "subtitle": "Санхүүгийн алба",
+      "subtitle1": "Товч Намтар",
+      "description1": "Нягтлан бодох бүртгэл, төсвийн төлөвлөлт, санхүүгийн шинжилгээ болон өртгийн удирдлагын чиглэлээр туршлагатай санхүү, төлөвлөлтийн мэргэжилтэн. Санхүү Эдийн Засгийн Их Сургуулийн Нягтлан Бодох Бүртгэлийн бакалаврын зэрэгтэй. Уламжлалт болон Agile Төслийн Удирдлага, ISO Дотоод Аудитын мэргэжлийн сургалтуудыг дүүргэсэн. 2023 онд Монголын Залуучуудын Холбооны “Шилдэг Залуу” медалиар шагнагдсан.",
+      "subtitle2": "Туршлага",
+      "description2": [
+        {
+          "line": "Төлөвлөлт, Санхүүгийн Менежер, Premium United LLC — 2024 – Одоог хүртэл",
+          "subtitle": "Төсөвлөлт, зөрүүгийн шинжилгээ, өртгийн менежмент, хүчин чадлын төлөвлөлтийг удирдсан. Бизнесийн гүйцэтгэлийн дүн шинжилгээ, стратегийн зөвлөмж боловсруулсан."
+        },
+        {
+          "line": "Ерөнхий Нягтлан, Central Foods LLC — 2022 – 2024",
+          "subtitle": "Аудитын бэлтгэл, өртгийн тооцоо, сар бүрийн санхүүгийн тайлан гаргалтыг удирдсан. Төсвийн өөрчлөлтүүдийг боловсруулж, хүнсний үйлдвэрлэлийн санхүүгийн үйл ажиллагааг хариуцсан."
+        },
+        {
+          "line": "Санхүүгийн Аналист / Нягтлан, Central Express CVS JSC/LLC — 2019 – 2022",
+          "subtitle": "Power BI тайлагнал, нэгтгэсэн санхүүгийн тайлан, хөрөнгө оруулагчийн харилцааг дэмжсэн. Татварын тайлан, өртгийн хяналт, дэлгүүрүүдийн гүйцэтгэлийн үзүүлэлтүүдийг хариуцсан."
+        }
+      ],
+      "photo": "undefinedwoman.jpg"
+    },
+    {
+      "name": "Үнэн Гал",
+      "title": "Дижитал дэд бүтцийн албаны дарга",
+      "subtitle": "Дижитал дэд бүтцийн алба",
+      "subtitle1": "Товч Намтар",
+      "description1": "10+ жилийн туршлагатай, дижитал өөрчлөлт, программ хангамжийн хөгжүүлэлт болон байгууллагын технологийн удирдлагын чиглэлээр мэргэшсэн төслийн удирдлагын мэргэжилтэн. Waterfall болон Agile арга зүйд өндөр ур чадвартай. PMP, PMI-ACP, COBIT5 Implementation зэрэг олон улсын сертификаттай. Байгууллагын бизнес стратегийг технологийн шийдэлтэй уялдуулан өндөр нөлөө бүхий дижитал үр дүн гаргадаг.",
+      "subtitle2": "Туршлага",
+      "description2": [
+        {
+          "line": "Дижитал Дэд Бүтцийн Газрын Дарга, Premium United — 2024.10 – Одоог хүртэл"
+        },
+        {
+          "line": "DevSec — Хамтран Үүсгэн Байгуулагч, Програм Менежер — 2023.01 – 2025.04",
+          "subtitle": "Бизнес процессын зөвлөгөө (Sain Electronics, M-Agro), Япон дахь QrMenu төслийн Scrum-of-Scrum удирдлага."
+        },
+        {
+          "line": "Хаан Банк — Дижитал Бүтээгдэхүүний Багийн Ахлагч / Omni-Channel Hub Owner (2021.08 – 2022.12)",
+          "subtitle": "Senior Scrum Master — дижитал үйлчилгээний томоохон хөтөлбөрүүдийг удирдсан, PO болон Scrum Master-уудад коучинг хийсэн."
+        },
+        {
+          "line": "Хаан Банк — Төслийн Менежер",
+          "subtitle": "Дунд хугацааны 3 стратегийн төслийг удирдаж, cross-functional Agile багуудыг байгуулсан."
+        },
+        {
+          "line": "ХасБанк — Ахлах Төслийн Менежер (2018.04 – 2019.09)",
+          "subtitle": "Дижитал өөрчлөлт ба байгууллагын процессын сайжруулалтын төслүүдийг удирдсан."
+        },
+        {
+          "line": "ХасБанк — Төслийн Менежер (2014.12 – 2018.04)"
+        },
+        {
+          "line": "ХасБанк — Програм Хөгжүүлэгч (2013.12 – 2014.12)",
+          "subtitle": "Full-stack development (C#, ASP.NET, Oracle DB, SAP Crystal Reports)"
+        }
+      ],
+      "photo": "undefinedman.jpg"
+    },
+    {
+      "name": "Лхагва Мөнх-Очир",
+      "title": "Хөгжүүлэлтийн хэлтсийн дарга",
+      "subtitle": "Хөгжүүлэлтийн хэлтэс",
+      "subtitle1": "lorem",
+      "description1": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus ipsum voluptatem iusto, eos debitis aperiam possimus eius ducimus. Dicta quae similique tempora accusantium delectus at, autem eius fugiat explicabo quam tempore enim. Veritatis tenetur eligendi necessitatibus, nisi amet id? Vel quod nulla architecto recusandae rem quo saepe laborum porro ducimus praesentium sapiente debitis in cum beatae doloremque repellendus commodi facilis reprehenderit dignissimos, nostrum reiciendis? Error repellat veniam quasi deleniti natus dolores provident perspiciatis beatae numquam eius voluptatum corporis laudantium quos fugit sunt facilis doloremque placeat, iste reiciendis alias exercitationem consequuntur voluptas ipsum. Sequi optio, eum sapiente fugit omnis nobis nostrum.",
+      "subtitle2": "lorem",
+      "description2": [
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        },
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        }
+      ],
+      "photo": "undefinedman.jpg"
+    },
+    {
+      "name": "Баярсайхан Баярманлай",
+      "title": "Бизнес хөгжлийн ахлах менежер",
+      "subtitle": "Бизнес хөгжлийн алба",
+      "subtitle1": "lorem",
+      "description1": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus ipsum voluptatem iusto, eos debitis aperiam possimus eius ducimus. Dicta quae similique tempora accusantium delectus at, autem eius fugiat explicabo quam tempore enim. Veritatis tenetur eligendi necessitatibus, nisi amet id? Vel quod nulla architecto recusandae rem quo saepe laborum porro ducimus praesentium sapiente debitis in cum beatae doloremque repellendus commodi facilis reprehenderit dignissimos, nostrum reiciendis? Error repellat veniam quasi deleniti natus dolores provident perspiciatis beatae numquam eius voluptatum corporis laudantium quos fugit sunt facilis doloremque placeat, iste reiciendis alias exercitationem consequuntur voluptas ipsum. Sequi optio, eum sapiente fugit omnis nobis nostrum.",
+      "subtitle2": "lorem",
+      "description2": [
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        },
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        }
+      ],
+      "photo": "undefinedman.jpg"
+    },
+
+    {
+      "name": "Багаажав Билгүүнжав",
+      "title": "Бөөний худалдааны төслийн албаны дарга",
+      "subtitle": "Борлуулалтын алба",
+      "subtitle1": "lorem",
+      "description1": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus ipsum voluptatem iusto, eos debitis aperiam possimus eius ducimus. Dicta quae similique tempora accusantium delectus at, autem eius fugiat explicabo quam tempore enim. Veritatis tenetur eligendi necessitatibus, nisi amet id? Vel quod nulla architecto recusandae rem quo saepe laborum porro ducimus praesentium sapiente debitis in cum beatae doloremque repellendus commodi facilis reprehenderit dignissimos, nostrum reiciendis? Error repellat veniam quasi deleniti natus dolores provident perspiciatis beatae numquam eius voluptatum corporis laudantium quos fugit sunt facilis doloremque placeat, iste reiciendis alias exercitationem consequuntur voluptas ipsum. Sequi optio, eum sapiente fugit omnis nobis nostrum.",
+      "subtitle2": "lorem",
+      "description2": [
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        },
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        }
+      ],
+      "photo": "undefinedman.jpg"
+    }
+    ],
+    "ServicesPage": {
+        "sub_title": "Бид юу хийдэг вэ?",
+        "title": "Манай үйлчилгээ",
+        "description": "Таны бизнест туслахын тулд бид санал болгож буй үйлчилгээний хүрээг нээн илрүүлээрэй."
+    },
+    "Services": {
+      "title1": "Түгээлтийн төв",
+      "subtitle1": "123",
+      "description1": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas doloremque autem culpa amet saepe excepturi molestias iure molestiae quo at perspiciatis quam voluptatum repellendus recusandae praesentium, mollitia consequatur quos sequi delectus corrupti eum aliquam aut! Provident ab quo nobis aut amet ratione officia ipsam nisi excepturi est nemo commodi praesentium, tempore similique mollitia minus sed rem neque exercitationem iusto! Perferendis alias debitis facilis, distinctio nam esse fuga amet quidem repellat facere cupiditate est, officia nostrum voluptates a exercitationem, provident ducimus. Corrupti sequi voluptatum inventore adipisci aliquid quasi laboriosam officiis ipsum minima veniam, laborum asperiores deserunt porro delectus, cum ab quia!",
+      "title2": "Хүйтэн түгээлтийн төв",
+      "subtitle2": "123",
+      "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas doloremque autem culpa amet saepe excepturi molestias iure molestiae quo at perspiciatis quam voluptatum repellendus recusandae praesentium, mollitia consequatur quos sequi delectus corrupti eum aliquam aut! Provident ab quo nobis aut amet ratione officia ipsam nisi excepturi est nemo commodi praesentium, tempore similique mollitia minus sed rem neque exercitationem iusto! Perferendis alias debitis facilis, distinctio nam esse fuga amet quidem repellat facere cupiditate est, officia nostrum voluptates a exercitationem, provident ducimus. Corrupti sequi voluptatum inventore adipisci aliquid quasi laboriosam officiis ipsum minima veniam, laborum asperiores deserunt porro delectus, cum ab quia!",
+      "title3": "Түгээлтийн төв",
+      "subtitle3": "123",
+      "description3": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas doloremque autem culpa amet saepe excepturi molestias iure molestiae quo at perspiciatis quam voluptatum repellendus recusandae praesentium, mollitia consequatur quos sequi delectus corrupti eum aliquam aut! Provident ab quo nobis aut amet ratione officia ipsam nisi excepturi est nemo commodi praesentium, tempore similique mollitia minus sed rem neque exercitationem iusto! Perferendis alias debitis facilis, distinctio nam esse fuga amet quidem repellat facere cupiditate est, officia nostrum voluptates a exercitationem, provident ducimus. Corrupti sequi voluptatum inventore adipisci aliquid quasi laboriosam officiis ipsum minima veniam, laborum asperiores deserunt porro delectus, cum ab quia!"
+    },
+    "PortfolioPage": {
+        "sub_title": "Бид юу хийв?",
+        "title": "Манай зургийн цомог",
+        "description": "Бидний гүйцэтгэсэн төсөл болон дурсамжийг сонирхон үзээрэй"
+    },
+    "ContactPage": {
+        "title": "Бидэнтэй холбоо бариарай",
+        "description": "loremm ipsum dolor sit amet.",
+        "email": "contact@premiumunited.mn",
+        "phone": "+1234567890",
+        "address": "Улаанбаатар, Монгол",
+        "links": "Хэрэгтэй холбоосууд"
+    },
+    "TimelinePage": {
+      "title": "Он цагийн хэлхээс"
+    },
+    "timeline": [
+      {
+        "date": "2022",
+        "title": "Эхлэл",
+        "line": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
+      },
+      {
+        "date": "2024",
+        "title": "Дунд",
+        "line": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
+      },
+      {
+        "date": "2025",
+        "title": "Одоо",
+        "line": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
+      }
+    ],
+    "ShipmentPage": {
+      "title": "Тоон баримт",
+      "line1": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
+    },
+    "shipment": [
+    {
+      "name": "Түгээлтийн машин",
+      "description": 123
+    },
+    {
+      "name": "Хүйтэн хүргэлт",
+      "description": 56
+    },
+    {
+      "name": "Хүргэлт хийсэн газрын тоо",
+      "description": 67
+    },
+    {
+      "name": "Хүн хүч",
+      "description": 1234
+    },
+    {
+      "name": "Үйлдвэр",
+      "description": 3
+    },
+    {
+      "name": "Бүх хүргэлт",
+      "description": 123456
+    },
+    {
+      "name": "Өнөөдрийн хүргэлт",
+      "description": 1234
+    },
+    {
+      "name": "Осол зөрчилгүй ажилласан хүн/цаг",
+      "description": 12345678
+    }
+    ],
+    "BranchPage": {
+      "sub_title": "Бид хэнтэй ажилладаг вэ?",
+      "title": "Бидний хамтран ажилладаг салбар компаниуд",
+      "line1": "Манай компанийн төлөвшилд чухал нөлөө үзүүлсэн түүхэн онцлох үе шаттай танилцана уу. Амжилт бүр нь бидний шилдэг амжилт, инновацийн төлөөх амлалтыг илэрхийлдэг.",
+      "viewMore": "Дэлгэрэнгүй"
+    },
+    "branch": [
+    {
+      "name": "Премиум Нэксус",
+      "description": "Премиум Нэксус ХК нь CU-д төвтэй экосистемийн тусламжтайгаар жижиглэнгийн худалдааны тав тухыг шинэчилж, хүнс, ундааны жижиглэн худалдааны салбарт шинэ стандартыг тогтоож байна.",
+      "icon": "logo.png",
+      "link": "https://www.premiumnexus.mn/"
+
+    },
+    {
+      "name": "Премиум Юнайтэд",
+      "description": "Премиум Юнайтэд нь CU-ийн дэлгүүрүүдтэй хамтран ажиллаж, төвлөрсөн түгээлтийн төв, түүний дотор хүрээлэн буй орчны болон хүйтэн сүлжээний агуулах, тээвэрлэлт, түгээлтийн үйлчилгээ үзүүлдэг.",
+      "icon": "logo.png",
+      "link": "https://premiumunited.mn/"
+    },
+    {
+      "name": "CU",
+      "description": "Өдөр бүр 200,000+ үйлчлүүлэгчдэд үйлчилдэг энэхүү өсөн нэмэгдэж буй сүлжээ нь Улаанбаатар хот болон төвийн 10 аймагт 410+ дэлгүүрээр дамжуулан улс даяар чанар, тохь тухыг хүргэж байна.",
+      "icon": "CU_logo.png",
+      "link": "https://cumongol.mn/"
+
+    },
+    {
+      "name": "Сэнтрал Коммерс",
+      "description": "Сентрал Коммерс нь импорт, маркетинг, түгээлтийн хүчирхэг төв болж, борлуулалтын бүх сувгаар бүтээгдэхүүн нийлүүлдэг. 2023 онд Asahi Beer Asia Limited компанитай бахархалтайгаар хамтран ажиллаж, багцаа өргөжүүлэн Монгол даяар өргөн тархсан алдарт Asahi Super Dry зэрэг олон төрлийн Asahi бүтээгдэхүүнийг багтаасан.",
+      "icon": "central_logo.png"
+    },
+    {
+      "name": "Сэнтрал Кофе Рөүстинг",
+      "description": "Сэнтрал Кофе Рөүстинг нь Германы технологийг ашиглан дээд зэрэглэлийн кофег шарж, савлаж, дээд зэргийн чанартай шошыг CU дэлгүүр, хэрэглэгчдэд хүргэдэг.",
+      "icon": "ccr.png",
+      "link": "https://centralcoffee.mn/"
+
+    },
+    {
+      "name": "Стора Централ",
+      "description": "Стора Централ-ийн тасралтгүй цахим худалдааны платформ нь Amazon болон Taobao-тай нэгдэж, Amazon-ийн бараа материалын системийг ашиглан CU-ийн дэлгүүрүүд дэх Store Boxes руу шууд гадаадад хурдан хүргэлтийг баталгаажуулдаг.",
+      "icon": "stora.png",
+      "link": "https://www.stora.mn/"
+
+    },
+    {
+      "name": "Чингис Шар Айраг",
+      "description": "1997 онд үүсгэн байгуулагдсан Чингис Шар Айраг нь Европын чанартай түүхий эдээр урласан, өвөрмөц гашуун амт, болор тунгалаг сэргэг амтыг бэлэглэдэг дээд зэрэглэлийн пилнерээрээ алдартай Монголын тэргүүлэгч брэнд юм.",
+      "icon": "chinggis.png",
+      "link": "https://chinggisbeer.com/"
+
+    }
+    ],
+    "HRPage": {
+      "sub_title1": "Хэрхэн бидэнтэй холбогдох вэ?",
+      "title": "Хүний нөөц",
+      "line1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam.",
+      "sub_title": "Санамж",
+      "sub_line": "Та формыг бөглөхдөө дараах зүйлсийг анхаараарай.",
+      "reminder1": "Та формыг бөглөхдөө бүх асуултанд бүрэн хариулж, цэвэр, гаргацтай, үг товчлохгүй бичихийг анхаарна уу.",
+      "reminder2": "Крилл үсгээр бичнэ үү.",
+      "reminder3": "Хэрэв та Premium United-д аль хэдийн өргөдөл гаргасан бол үүнийг бөглөх хэрэггүй.",
+      "reminder4": "Бид таны хувийн мэдээллийг өөр зорилгоор ашиглахгүй.",
+      "sub_line2": "Ажлын зарын холбоосууд"
+    },
+    "hr": [
+    {
+      "name": "Нийт ажилчид",
+      "description": 123,
+      "icon": "team.svg"
+    },
+    {
+      "name": "Хамтрагчид",
+      "description": 56,
+      "icon": "partner.svg"
+    },
+    {
+      "name": "Сургалтанд хамрагдсан нийт ажилчид",
+      "description": 67,
+      "icon": "training.svg"
+    },
+    {
+      "name": "Нийт сургалтын хүн цаг",
+      "description": 1234,
+      "icon": "time.svg"
+    }
+  ],
+  "FormPage": {
+    "title": "Бидэнтэй холбогдох",
+    "subtitle": "Form subtitle",
+    "line1": "Сайн байна уу! ",
+    "line2": "Миний нэр ",
+    "line3": "Миний мэйл хаяг ",
+    "line4": "Миний асуудал ",
+    "line5": "Миний хэлэхийг хүссэн зүйл ",
+    "name": " таны нэр ",
+    "email": " жишээ@domain.com ",
+    "description": " Таны асуудал... ",
+    "message": " Таны хэлэх зүйл... ",
+    "submit": "Илгээх" 
+  }
+} 

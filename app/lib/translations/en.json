@@ -1,0 +1,562 @@
+{
+    "Navbar": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "portfolio": "Album",
+        "contact": "Contact"
+    },
+    "HomePage": {
+        "line1": "Welcome to our site",
+        "line2": "Beyond delivery — We deliver growth and opportunity",
+        "line3": "Leveraging CU Mongolia, a strong vendor network, and advanced logistics capabilities, Premium United is building Mongolia’s first fully integrated supply chain platform.",
+        "button1": "Get Started",
+        "button2": "Learn More",
+        "small line1": "lorem lorem lorem lorem lorem"
+    },
+    "AboutPage": {
+        "title": "About our company",
+        "line1": "Who we are?",
+        "description": "Premium United was established in * with a mission to build Mongolia’s next-generation integrated food distribution and logistics ecosystem. Our operations unify wholesale distribution, cold-chain and processing, rural backhaul sourcing, Q-commerce, and last-mile delivery into a single, efficient, and transparent platform. Our ambition is to transform Mongolia’s food supply chain into a modern, integrated, and sustainable system — delivering growth, access, and opportunity to every province and every shop we serve."
+    },
+    "TeamPage": {
+        "title": "Meet our team",
+        "description": "We are a team of professionals"
+    },
+    "team": [
+    {
+      "name": "Dashdorj Soronzonnaigal",
+      "title": "Managing Director of “Premium United” LLC",
+      "subtitle": "Premium United director",
+      "subtitle1": "Professional Summary",
+      "description1": "Mongolian finance expert with 10+ years of experience in corporate finance, investment, financial planning, and academic research. Holds a Master’s degree in Economics from the National University of Mongolia. Skilled in valuation, business development, financial modelling, and sustainability-focused policy development.",
+      "subtitle2": "Experience",
+      "description2": [
+        {
+          "line": "Managing Director, “Premium United” LLC — Oct 2024 – Present"
+        },
+        {
+          "line": "Managing Director, Central Commerce & Central Coffee Roasting LLC — Mar 2023 – Present",
+          "subtitle": "Responsible for leading business operations and strategic planning."
+        },
+        {
+          "line": "Director of Finance, Wave3 Investment Partners LLC — Mar 2022 – Present",
+          "subtitle": "Business development, project acquisition, and investment strategy."
+        },
+        {
+          "line": "Director of Finance, Central Express CVS JSC — Jun 2021 – Jun 2022",
+          "subtitle": "Oversaw financial management, planning, and corporate financing."
+        },
+        {
+          "line": "Investment Manager, Premium Group — Nov 2019 – Mar 2022",
+          "subtitle": "Conducted business valuations, financial modelling, and investment studies."
+        },
+        {
+          "line": "Senior Lecturer, University of Finance — Aug 2011 – Nov 2019",
+          "subtitle": "Delivered courses and conducted academic research in economics and finance."
+        },
+        {
+          "line": "Consultant & Team Leader — Various national and international projects including UNITAR & NUBIA",
+          "subtitle": "Focused on sustainable finance education and financial consulting for concession agreements."
+        }
+      ],
+      "photo": "undefinedman.jpg"
+    },
+    {
+      "name": "Ariunbayar Enkhbat",
+      "title": "Director of Logistics Operations",
+      "subtitle": "Logistic Department",
+      "subtitle1": "Professional Summary",
+      "description1": "Supply chain and logistics leader with 6+ years of experience in procurement, operations, and end-to-end logistics management. Holds a Master’s degree from the University of Finance and Economics (Mongolia) and a Bachelor’s degree from Dongguk University (Korea). Fluent in English and Korean, with working knowledge of Turkish. Skilled in strategic sourcing, supplier negotiations, cost optimization, and FMCG operations. Proven track record in leading teams, managing high-volume logistics, and improving operational efficiency.",
+      "subtitle2": "Experience",
+      "description2": [
+          {
+            "line": "Head of Logistic Division, Premium United — Oct 2024 – Present"
+          },
+          {
+            "line": "Head of Logistics Department, Premium Nexus JSC (CU Mongolia) — 2024",
+            "subtitle": "Led warehousing, transport operations, and end-to-end logistics workflows."
+          },
+          {
+            "line": "Head of Supply Chain Department, Premium Nexus JSC — 2022 – 2024",
+            "subtitle": "Oversaw procurement strategy, supplier negotiations, and performance analytics."
+          },
+          {
+            "line": "Procurement Department Manager, Premium Nexus JSC — 2021 – 2022",
+            "subtitle": "Managed departmental planning and team leadership across procurement functions."
+          },
+          {
+            "line": "Senior Procurement Specialist — 2020 – 2021"
+          },
+          {
+            "line": "Procurement Specialist — 2018 – 2020",
+            "subtitle": "Awarded “Best Employee of the Year” (2021) for outstanding performance."
+          }
+        ],
+      "photo": "undefinedman.jpg"
+    },
+    {
+      "name": "Sarangua Tumendemberel",
+      "title": "Senior Operation Manager",
+      "subtitle": "Operations Department",
+      "subtitle1": "Professional Summary",
+      "description1": "Distribution Center Manager with extensive experience in warehouse and logistics operations. Led major distribution upgrades and ERP implementations for CU stores (from 80 to 480 locations). Holds a Bachelor's degree in Accounting and Audit from the National University of Mongolia. Expert in operational restructuring, system optimization, and strategic planning. Proven track record in improving efficiency and scaling logistics operations.",
+      "subtitle2": "Experience",
+      "description2": [
+        {
+          "line": "Distribution Center Manager, Premium United — Oct 2024 – Present"
+        },
+        {
+          "line": "Distribution Center Manager, PU / CU Convenience Store Network"
+        },
+        {
+          "line": "Scaled distribution center operations from supporting 80 stores to 480 across 5,200 m²"
+        },
+        {
+          "line": "Successfully led 4 ERP/system implementations aligned with operational workflows"
+        },
+        {
+          "line": "Designed new structures and staffing models to boost warehouse productivity"
+        },
+        {
+          "line": "Developed 5 daily operational reports, 7 company-wide policies, and 28 SOPs for warehouse operations"
+        },
+        {
+          "line": "Conducted process mapping and job role realignment to eliminate inefficiencies"
+        },
+        {
+          "line": "Controlled distribution accuracy, reducing discrepancies in store deliveries"
+        },
+        {
+          "line": "Consistently led cross-departmental collaboration to implement improvements company-wide"
+        }
+      ],
+      "photo": "undefinedwoman.jpg"
+    },
+    {
+      "name": "Chinzorig Ochirbat",
+      "title": "Cold Chain Storage Manager",
+      "subtitle": "Cold Chain Storage",
+      "subtitle1": "Professional Summary",
+      "description1": "Cold Chain Manager with expertise in logistics, customs clearance, and warehouse operations. Holds a Bachelor's degree in Economics and trained in Korean language in South Korea. Led cold chain logistics for CU convenience stores in Mongolia. Experienced in international logistics and project coordination with Korean firms. Recognized for reliability, leadership, and operational efficiency.",
+      "subtitle2": "Experience",
+      "description2": [
+        {
+          "line": "Cold Chain Warehouse Manager, Premium United LLC – CU Stores — 5 years",
+          "subtitle": "Daily management of refrigerated warehouse operations. Oversight of cost control, inventory, and supply chain coordination. Reported to senior leadership and procurement managers."
+        },
+        {
+          "line": "Customs Clearance Manager, Nomin Holding — 6 months",
+          "subtitle": "Managed customs clearance and warehouse inbound logistics for imported goods."
+        },
+        {
+          "line": "Executive Assistant, VELS Blue Bridge (Korean Investment Co.) — 4 years",
+          "subtitle": "Conducted market pricing research in China and presented analytical reports. Supported Korean executives in international operations."
+        },
+        {
+          "line": "Executive Assistant, KYL Logistics — 4 years",
+          "subtitle": "Assisted in major projects including transport for the 2016 ASEM Summit. Supported cargo and customs coordination for the new Ulaanbaatar airport project."
+        }
+      ],
+      "photo": "undefinedman.jpg"
+    },
+    {
+      "name": "Batsuuri Gansukh",
+      "title": "Fleet manager",
+      "subtitle": "Transportation section",
+      "subtitle1": "Professional Summary",
+      "description1": "Logistics and transport professional with 15+ years of experience, specializing in fleet management, cold chain operations, and transport optimization. Holds a degree in Mining Engineering Technology. Proven leadership in team management and operational coordination, with strong capabilities in planning, organizing, and executing logistics workflows efficiently.",
+      "subtitle2": "Experience",
+      "description2": [
+        {
+          "line": "Transport Manager, Premium United LLC — 2024 – Present",
+          "subtitle": "Overseeing logistics and transport activities with a focus on cold chain operations."
+        },
+        {
+          "line": "Executive Director, New Discovery LLC — 2008 – 2024",
+          "subtitle": "Led company operations, strategy, and logistics coordination."
+        },
+        {
+          "line": "Manager, Mining Service LLC — 2005 – 2008",
+          "subtitle": "Responsible for operational and administrative management."
+        },
+        {
+          "line": "Underground Mining Supervisor, Bor-Undur Mining & Processing Plant — 2001 – 2003",
+          "subtitle": "Supervised underground operations in a mining environment."
+        }
+      ],
+      "photo": "undefinedman.jpg"
+    },
+    {
+      "name": "Tuvshinzul Tumuruu",
+      "title": "HSE Manager",
+      "subtitle": "HSE",
+      "subtitle1": "lorem",
+      "description1": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus ipsum voluptatem iusto, eos debitis aperiam possimus eius ducimus. Dicta quae similique tempora accusantium delectus at, autem eius fugiat explicabo quam tempore enim. Veritatis tenetur eligendi necessitatibus, nisi amet id? Vel quod nulla architecto recusandae rem quo saepe laborum porro ducimus praesentium sapiente debitis in cum beatae doloremque repellendus commodi facilis reprehenderit dignissimos, nostrum reiciendis? Error repellat veniam quasi deleniti natus dolores provident perspiciatis beatae numquam eius voluptatum corporis laudantium quos fugit sunt facilis doloremque placeat, iste reiciendis alias exercitationem consequuntur voluptas ipsum. Sequi optio, eum sapiente fugit omnis nobis nostrum.",
+      "subtitle2": "lorem",
+      "description2": [
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        },
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        }
+      ],
+      "photo": "undefinedwoman.jpg"
+    },
+    {
+      "name": "Shijirtuya Tsagaanderem",
+      "title": "Human Resource Manager",
+      "subtitle": "Human Resources Department",
+      "subtitle1": "Professional Summary",
+      "description1": "Experienced HR Manager and English Translator with over 10 years of experience in recruitment, training, labor relations, and organizational development. Holds a Bachelor's degree in English Translation and a second Bachelor's degree in History and Ethnology. Completed multiple professional development trainings in HR management, organizational culture, employee motivation, labor law, and business development. Skilled in full-scope HR operations, including recruitment, onboarding, retention strategies, motivation systems, internal policy design, conflict resolution, and performance management. Fluent in English (80%) and conversational in Russian (50%).",
+      "subtitle2": "Experience",
+      "description2": [
+        {
+          "line": "HR Manager, Premium United LLC — Oct 2024 – Present"
+        },
+        {
+          "line": "HR Manager, Central Express CVS JSC — May 2023 – 2024"
+        },
+        {
+          "line": "HR Manager, Nachin Zaan LLC — 2016 – 2023"
+        },
+        {
+          "line": "HR Manager, Erdenet Carpet LLC — 2015"
+        },
+        {
+          "line": "Head of Passenger Service, Eznis Airways LLC — 2014"
+        },
+        {
+          "line": "Senior HR Specialist, Eznis Airways LLC — 2010 – 2014"
+        },
+        {
+          "line": "Passenger Registration Officer, Eznis Airways LLC — 2005 – 2010"
+        }
+      ],
+      "photo": "undefinedwoman.jpg"
+    },
+    {
+      "name": "Zolboo Erdenebat",
+      "title": "Head of Finance Department",
+      "subtitle": "Finance Department",
+      "subtitle1": "lorem",
+      "description1": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus ipsum voluptatem iusto, eos debitis aperiam possimus eius ducimus. Dicta quae similique tempora accusantium delectus at, autem eius fugiat explicabo quam tempore enim. Veritatis tenetur eligendi necessitatibus, nisi amet id? Vel quod nulla architecto recusandae rem quo saepe laborum porro ducimus praesentium sapiente debitis in cum beatae doloremque repellendus commodi facilis reprehenderit dignissimos, nostrum reiciendis? Error repellat veniam quasi deleniti natus dolores provident perspiciatis beatae numquam eius voluptatum corporis laudantium quos fugit sunt facilis doloremque placeat, iste reiciendis alias exercitationem consequuntur voluptas ipsum. Sequi optio, eum sapiente fugit omnis nobis nostrum.",
+      "subtitle2": "lorem",
+      "description2": [
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        },
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        }
+      ],
+      "photo": "undefinedman.jpg"
+    },
+    {
+      "name": "Oyuntungalag Davaagarav",
+      "title": "Planning and financial manager",
+      "subtitle": "Finance Department",
+      "subtitle1": "Professional Summary",
+      "description1": "Finance and planning professional with strong experience in accounting, budgeting, financial analysis, and cost management. Holds a Bachelor’s degree in Accounting from the University of Finance and Economics, Mongolia. Completed professional training in Project Management (Traditional & Agile) and ISO Internal Auditing. Recognized with the “Best Youth Medal” by the Mongolian Youth Federation in 2023.",
+      "subtitle2": "Experience",
+      "description2": [
+        {
+          "line": "Planning & Financial Manager, Premium United LLC — 2024 – Present",
+          "subtitle": "Oversaw budgeting, variance analysis, cost management, and capacity planning. Provided business performance insights and strategic financial recommendations."
+        },
+        {
+          "line": "Chief Accountant, Central Foods LLC — 2022 – 2024",
+          "subtitle": "Led audit preparation, cost calculations, and monthly financial reporting. Managed budget revisions and financial operations for food production."
+        },
+        {
+          "line": "Financial Analyst / Accountant, Central Express CVS JSC/LLC — 2019 – 2022",
+          "subtitle": "Built Power BI dashboards, consolidated financial reports, and supported investor relations. Handled tax filings, cost tracking, and store performance metrics."
+        }
+      ],
+      "photo": "undefinedwoman.jpg"
+    },
+    {
+      "name": "Gal Unen",
+      "title": "Head of Digital Infrastructure",
+      "subtitle": "Digital Infrastructure Department",
+      "subtitle1": "Professional Summary",
+      "description1": "Project Management Professional with 10+ years of experience in digital transformation, software development, and enterprise technology management. Skilled in both Waterfall and Agile methodologies with strong expertise in Scrum, SAFe, and Lean practices. Holds PMP, PMI-ACP, and COBIT5 Implementation certifications. Adept at aligning business strategy with digital solutions to deliver high-impact organizational results.",
+      "subtitle2": "Experience",
+      "description2": [
+        {
+          "line": "Head of Digital Infrastructure, Premium United — Oct 2024 – Present"
+        },
+        {
+          "line": "Co-Founder & Program Manager, DevSec — Jan 2023 – Apr 2025",
+          "subtitle": "Business process consulting (Sain Electronics, M-Agro), Scrum-of-Scrum leadership for QrMenu (Japan)."
+        },
+        {
+          "line": "Khan Bank — Digital Product Team Lead / Omni-Channel Hub Owner (Aug 2021 – Dec 2022)",
+          "subtitle": "Senior Scrum Master overseeing major digital-service programs; coached Product Owners and Scrum Masters."
+        },
+        {
+          "line": "Khan Bank — Project Manager",
+          "subtitle": "Led three mid-term strategic projects and built cross-functional Agile teams."
+        },
+        {
+          "line": "Khasbank — Senior Project Manager (Apr 2018 – Sep 2019)",
+          "subtitle": "Managed digital transformation initiatives and enterprise-level process improvements."
+        },
+        {
+          "line": "Khasbank — Project Manager (Dec 2014 – Apr 2018)"
+        },
+        {
+          "line": "Khasbank — Software Developer (Dec 2013 – Dec 2014)",
+          "subtitle": "Specialized in full-stack development (C#, ASP.NET, Oracle DB, SAP Crystal Reports)."
+        }
+      ],
+      "photo": "undefinedman.jpg"
+    },
+    {
+      "name": "Munkh-Ochir Lkhagva",
+      "title": "Director of Technology",
+      "subtitle": "Technology Development Department",
+      "subtitle1": "lorem",
+      "description1": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus ipsum voluptatem iusto, eos debitis aperiam possimus eius ducimus. Dicta quae similique tempora accusantium delectus at, autem eius fugiat explicabo quam tempore enim. Veritatis tenetur eligendi necessitatibus, nisi amet id? Vel quod nulla architecto recusandae rem quo saepe laborum porro ducimus praesentium sapiente debitis in cum beatae doloremque repellendus commodi facilis reprehenderit dignissimos, nostrum reiciendis? Error repellat veniam quasi deleniti natus dolores provident perspiciatis beatae numquam eius voluptatum corporis laudantium quos fugit sunt facilis doloremque placeat, iste reiciendis alias exercitationem consequuntur voluptas ipsum. Sequi optio, eum sapiente fugit omnis nobis nostrum.",
+      "subtitle2": "lorem",
+      "description2": [
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        },
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        }
+      ],
+      "photo": "undefinedman.jpg"
+    },
+    {
+      "name": "Bayarmanlai Bayarsaikhan",
+      "title": "Business Development Senior Manager",
+      "subtitle": "Business Department",
+      "subtitle1": "lorem",
+      "description1": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus ipsum voluptatem iusto, eos debitis aperiam possimus eius ducimus. Dicta quae similique tempora accusantium delectus at, autem eius fugiat explicabo quam tempore enim. Veritatis tenetur eligendi necessitatibus, nisi amet id? Vel quod nulla architecto recusandae rem quo saepe laborum porro ducimus praesentium sapiente debitis in cum beatae doloremque repellendus commodi facilis reprehenderit dignissimos, nostrum reiciendis? Error repellat veniam quasi deleniti natus dolores provident perspiciatis beatae numquam eius voluptatum corporis laudantium quos fugit sunt facilis doloremque placeat, iste reiciendis alias exercitationem consequuntur voluptas ipsum. Sequi optio, eum sapiente fugit omnis nobis nostrum.",
+      "subtitle2": "lorem",
+      "description2": [
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        },
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        }
+      ],
+      "photo": "undefinedman.jpg"
+    },
+    {
+      "name": "Bilguunjav Bagaajav",
+      "title": "Head of Wholesale Project",
+      "subtitle": "Project Department",
+      "subtitle1": "lorem",
+      "description1": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus ipsum voluptatem iusto, eos debitis aperiam possimus eius ducimus. Dicta quae similique tempora accusantium delectus at, autem eius fugiat explicabo quam tempore enim. Veritatis tenetur eligendi necessitatibus, nisi amet id? Vel quod nulla architecto recusandae rem quo saepe laborum porro ducimus praesentium sapiente debitis in cum beatae doloremque repellendus commodi facilis reprehenderit dignissimos, nostrum reiciendis? Error repellat veniam quasi deleniti natus dolores provident perspiciatis beatae numquam eius voluptatum corporis laudantium quos fugit sunt facilis doloremque placeat, iste reiciendis alias exercitationem consequuntur voluptas ipsum. Sequi optio, eum sapiente fugit omnis nobis nostrum.",
+      "subtitle2": "lorem",
+      "description2": [
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        },
+        {
+          "line": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+          "subtitle": "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+        }
+      ],
+      "photo": "undefinedman.jpg"
+    }
+    ],
+    "ServicesPage": {
+        "sub_title": "What we do?",
+        "title": "Our services",
+        "description": "Discover the range of services we offer to help your business grow."
+    },
+    "Services": {
+      "title1": "Distribution Center",
+      "subtitle1": "123",
+      "description1": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas doloremque autem culpa amet saepe excepturi molestias iure molestiae quo at perspiciatis quam voluptatum repellendus recusandae praesentium, mollitia consequatur quos sequi delectus corrupti eum aliquam aut! Provident ab quo nobis aut amet ratione officia ipsam nisi excepturi est nemo commodi praesentium, tempore similique mollitia minus sed rem neque exercitationem iusto! Perferendis alias debitis facilis, distinctio nam esse fuga amet quidem repellat facere cupiditate est, officia nostrum voluptates a exercitationem, provident ducimus. Corrupti sequi voluptatum inventore adipisci aliquid quasi laboriosam officiis ipsum minima veniam, laborum asperiores deserunt porro delectus, cum ab quia!",
+      "title2": "Cold Chain Warehouse",
+      "subtitle2": "123",
+      "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas doloremque autem culpa amet saepe excepturi molestias iure molestiae quo at perspiciatis quam voluptatum repellendus recusandae praesentium, mollitia consequatur quos sequi delectus corrupti eum aliquam aut! Provident ab quo nobis aut amet ratione officia ipsam nisi excepturi est nemo commodi praesentium, tempore similique mollitia minus sed rem neque exercitationem iusto! Perferendis alias debitis facilis, distinctio nam esse fuga amet quidem repellat facere cupiditate est, officia nostrum voluptates a exercitationem, provident ducimus. Corrupti sequi voluptatum inventore adipisci aliquid quasi laboriosam officiis ipsum minima veniam, laborum asperiores deserunt porro delectus, cum ab quia!",
+      "title3": "Transportation Center",
+      "subtitle3": "123",
+      "description3": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas doloremque autem culpa amet saepe excepturi molestias iure molestiae quo at perspiciatis quam voluptatum repellendus recusandae praesentium, mollitia consequatur quos sequi delectus corrupti eum aliquam aut! Provident ab quo nobis aut amet ratione officia ipsam nisi excepturi est nemo commodi praesentium, tempore similique mollitia minus sed rem neque exercitationem iusto! Perferendis alias debitis facilis, distinctio nam esse fuga amet quidem repellat facere cupiditate est, officia nostrum voluptates a exercitationem, provident ducimus. Corrupti sequi voluptatum inventore adipisci aliquid quasi laboriosam officiis ipsum minima veniam, laborum asperiores deserunt porro delectus, cum ab quia!"
+    },
+    "PortfolioPage": {
+        "sub_title": "What we done?",
+        "title": "Our album",
+        "description": "Take a look at some of our recent projects and success stories."
+    },
+
+    "ContactPage": {
+        "title": "Get in touch",
+        "description": "loremm ipsum dolor sit amet.",
+        "email": "contact@premiumunited.mn",
+        "phone": "+1234567890",
+        "address": "Ulaanbaatar, Mongolia",
+        "links": "Useful links"
+    },
+    "TimelinePage": {
+      "title": "Timeline"},
+    "timeline": [
+      {
+        "date": "2022",
+        "title": "Started",
+        "line": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
+      },
+      {
+        "date": "2024",
+        "title": "Middle",
+        "line": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
+      },
+      {
+        "date": "2025",
+        "title": "Now",
+        "line": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
+      }
+    ],
+    "ShipmentPage": {
+      "title": "Digital evidence",
+      "line1": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
+    },
+    "shipment": [
+    {
+      "name": "Shiping Car",
+      "description": 123
+    },
+    {
+      "name": "Cold Ship",
+      "description": 56
+    },
+    {
+      "name": "Number of shiped Places",
+      "description": 67
+    },
+    {
+      "name": "Poeple",
+      "description": 1234
+    },
+    {
+      "name": "Factory",
+      "description": 3
+    },
+    {
+      "name": "All Shipments",
+      "description": 123456
+    },
+    {
+      "name": "Today's Shipment",
+      "description": 1234
+    },
+    {
+      "name": "Person/hour worked without accidents",
+      "description": 12345678
+    }
+    ],
+    "BranchPage": {
+      "sub_title": "Who we work with?",
+      "title": "Our partner branch companies",
+      "line1": "Explore the significant milestones that have shaped our company. Each achievement reflects our commitment to excellence and innovation.",
+      "viewMore": "View More"
+    },
+    "branch": [
+    {
+      "name": "Pemium Nexus JSC",
+      "description": "At Premium Nexus JSC, we redefine retail convenience with our CU-centric ecosystem, setting new standards in the Food and Beverage retail sector.",
+      "icon": "logo.png",
+      "link": "https://www.premiumnexus.mn/"
+    },
+    {
+      "name": "Premium United",
+      "description": "Premium United partners with CU convenience stores to operate a centralized distribution center, including ambient and cold chain warehouses, along with transport and distribution services.",
+      "icon": "logo.png",
+      "link": "https://premiumunited.mn/"
+    },
+    {
+      "name": "CU",
+      "description": "Serving 200,000+ customers daily, this growing chain operates 410+ stores across Ulaanbaatar and 10 central provinces, delivering quality and convenience nationwide.",
+      "icon": "CU_logo.png",
+      "link": "https://cumongol.mn/"
+    },
+    {
+      "name": "Central Commerce",
+      "description": "Central Commerce operates as an import, marketing, and distribution powerhouse, supplying products across all sales channels. In 2023, it proudly partnered with Asahi Beer Asia Limited, expanding its portfolio to include a variety of Asahi products, such as the iconic Asahi Super Dry, now widely available throughout Mongolia.",
+      "icon": "central_logo.png"
+    },
+    {
+      "name": "Central Coffee Roasting",
+      "description": "CCR roasts and packages premium coffee using German technology, delivering top-quality beans to CU stores and consumers.",
+      "icon": "ccr.png",
+      "link": "https://centralcoffee.mn/"
+    },
+    {
+      "name": "Stora Central",
+      "description": "Stora’s seamless e-commerce platform integrates with Amazon and Taobao, using Amazon’s inventory system to ensure fast overseas delivery directly to Stora Boxes in CU stores.",
+      "icon": "stora.png",
+      "link": "https://www.stora.mn/"
+    },
+    {
+      "name": "Chinggis Beer",
+      "description": "Established in 1997, Chinggis Beer is a leading Mongolian brand known for its premium pilsner, crafted with quality European raw materials to deliver a unique bitter flavor and crystal-clear refreshment.",
+      "icon": "chinggis.png",
+      "link": "https://chinggisbeer.com/"
+    }
+    ],
+    "HRPage": {
+      "sub_title1": "How to contact us?",
+      "title": "Human resources",
+      "line1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam.",
+      "sub_title": "Reminder",
+      "sub_line": "Please note the following when filling out the form.",
+      "reminder1": "When filling out the application, please answer all questions completely, write clearly, legibly, and without abbreviations.",
+      "reminder2": "Write in Cyrillic script.",
+      "reminder3": "Do not apply if you have already been applied by Premium United.",
+      "reminder4": "We will not use your personal information for any other purpose.",
+      "sub_line2": "Job Advertisement Links"
+    },
+    "hr": [
+    {
+      "name": "Total employees",
+      "description": 123,
+      "icon": "M18 18.72a9.094 9.094 0 0 0 3.741-.479 3 3 0 0 0-4.682-2.72m.94 3.198.001.031c0 .225-.012.447-.037.666A11.944 11.944 0 0 1 12 21c-2.17 0-4.207-.576-5.963-1.584A6.062 6.062 0 0 1 6 18.719m12 0a5.971 5.971 0 0 0-.941-3.197m0 0A5.995 5.995 0 0 0 12 12.75a5.995 5.995 0 0 0-5.058 2.772m0 0a3 3 0 0 0-4.681 2.72 8.986 8.986 0 0 0 3.74.477m.94-3.197a5.971 5.971 0 0 0-.94 3.197M15 6.75a3 3 0 1 1-6 0 3 3 0 0 1 6 0Zm6 3a2.25 2.25 0 1 1-4.5 0 2.25 2.25 0 0 1 4.5 0Zm-13.5 0a2.25 2.25 0 1 1-4.5 0 2.25 2.25 0 0 1 4.5 0Z"
+    },
+    {
+      "name": "Partners",
+      "description": 56,
+      "icon": "M9.348 14.652a3.75 3.75 0 0 1 0-5.304m5.304 0a3.75 3.75 0 0 1 0 5.304m-7.425 2.121a6.75 6.75 0 0 1 0-9.546m9.546 0a6.75 6.75 0 0 1 0 9.546M5.106 18.894c-3.808-3.807-3.808-9.98 0-13.788m13.788 0c3.808 3.807 3.808 9.98 0 13.788M12 12h.008v.008H12V12Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z"
+    },
+    {
+      "name": "Total employees participated in the training",
+      "description": 67,
+      "icon": "M4.26 10.147a60.438 60.438 0 0 0-.491 6.347A48.62 48.62 0 0 1 12 20.904a48.62 48.62 0 0 1 8.232-4.41 60.46 60.46 0 0 0-.491-6.347m-15.482 0a50.636 50.636 0 0 0-2.658-.813A59.906 59.906 0 0 1 12 3.493a59.903 59.903 0 0 1 10.399 5.84c-.896.248-1.783.52-2.658.814m-15.482 0A50.717 50.717 0 0 1 12 13.489a50.702 50.702 0 0 1 7.74-3.342M6.75 15a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm0 0v-3.675A55.378 55.378 0 0 1 12 8.443m-7.007 11.55A5.981 5.981 0 0 0 6.75 15.75v-1.5"
+    },
+    {
+      "name": "Total training man-hours",
+      "description": 1234,
+      "icon": "M12 6v6h4.5m4.5 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"
+    }
+  ],
+  "FormPage": {
+    "title": "Contact us",
+    "subtitle": "Form subtitle",
+    "line1": "Hello!",
+    "line2": "My name is ",
+    "line3": "My email address is ",
+    "line4": "My problem is ",
+    "line5": "I want to say is ",
+    "name": " your name ",
+    "email": " example@domain.com ",
+    "description": " Your description... ",
+    "message": " Your message... ",
+    "submit": "Submit" 
+  }
+}

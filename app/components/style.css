@@ -1,0 +1,103 @@
+/* .Mui-focused {
+  color: green !important;
+} */
+
+/* Light mode styles */
+/* Base styles - mobile first */
+.MuiInputLabel-root {
+  font-size: 14px !important;
+}
+
+.MuiInput-root {
+  color: #000 !important;
+  font-size: 14px !important;
+}
+
+.MuiSelect-root {
+  color: #666 !important;
+  font-size: 14px !important;
+}
+
+.MuiTextField-root {
+  font-size: 14px !important;
+}
+
+.MuiFormHelperText-root {
+  font-size: 12px !important;
+  color: #666 !important;
+}
+
+.MuiFormLabel-root {
+  font-size: 14px !important;
+}
+
+.MuiInputBase-root {
+  font-size: 14px !important;
+  color: #000 !important;
+}
+
+/* Tablet and desktop styles */
+@media screen and (min-width: 740px) {
+  .MuiInputLabel-root {
+    font-size: 16px !important;
+  }
+  
+  .MuiInput-root {
+    font-size: 16px !important;
+  }
+  
+  .MuiSelect-root {
+    font-size: 16px !important;
+  }
+  
+  .MuiTextField-root {
+    font-size: 16px !important;
+  }
+  
+  .MuiFormHelperText-root {
+    font-size: 13px !important;
+  }
+  
+  .MuiFormLabel-root {
+    font-size: 16px !important;
+  }
+  
+  .MuiInputBase-root {
+    font-size: 16px !important;
+  }
+}
+
+/* Dark mode styles */
+/* Base dark mode styles - mobile first */
+.dark .MuiInputLabel-root {
+  color: #9ca3af !important;
+}
+
+.dark .MuiInput-root {
+  color: white !important;
+}
+
+.dark .MuiSelect-root {
+  color: white !important;
+}
+
+.dark .MuiFormHelperText-root {
+  color: white !important;
+}
+
+.dark .MuiInputBase-root {
+  color: white !important;
+}
+
+/* Dark mode border and interaction styles */
+.dark .MuiInput-underline:before {
+  border-bottom-color: #4b5563 !important;
+}
+
+.dark .MuiInput-underline:hover:before {
+  border-bottom-color: #6b7280 !important;
+}
+
+.dark .MuiInput-underline:after {
+  border-bottom-color: #ef4444 !important;
+}
