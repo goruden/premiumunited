@@ -1,29 +1,29 @@
 {
-    "Navbar": {
-        "home": "Нүүр",
-        "about": "Тухай",
-        "services": "Үйлчилгээ",
-        "portfolio": "Цомог",
-        "contact": "Холбоо барих"
-    },
-    "HomePage": {
-        "line1": "Манай сайтад тавтай морилно уу",
-        "line2": "Хүргэлтээс цааш — Бид өсөлт болон боломжийг түгээнэ",
-        "line3": "Премиум Юнайтэд нь CU Mongolia-тай хамтран ажиллах, ханган нийлүүлэгчийн өргөн сүлжээ болон хүчирхэг логистикийн чадавхаараа Монголын анхны бүрэн нэгдсэн нийлүүлэлтийн платформыг хөгжүүлэгч юм. ",
-        "button1": "Эхлэх",
-        "button2": "Дэлгэрэнгүй",
-        "small line1": "lorem lorem lorem lorem lorem"
-    },
-    "AboutPage": {
-        "title": "Манай компанийн тухай",
-        "line1": "Бид хэн бэ?",
-        "description": "Premium United нь * онд байгуулагдан, Монгол Улсын хүнсний нийлүүлэлт, логистикийн салбарт шинэ түвшний нэгдсэн экосистемийг бүтээх зорилготой ажиллаж байна. Манай компани нь бөөний түгээлт, хүйтэн түгээлт, боловсруулах төв, аймаг хоорондын буцаан таталт, Q-commerce, болон last-mile хүргэлтийн үйлчилгээг нэг платформ дээр уялдуулан, тасралтгүй ажиллагаатай нийлүүлэлтийн сүлжээг бий болгож байна. Бидний зорилго бол Монголын хүнсний нийлүүлэлтийг орчин үеийн, нэгдсэн, тогтвортой систем болгон хөгжүүлж, улс орон даяар өсөлт, хүртээмж, боломжийг түгээх юм."
-    },
-    "TeamPage": {
-        "title": "Манай багтай танилц",
-        "description": "Бид мэргэжлийн баг хамт олон"
-    },
-    "team": [
+  "Navbar": {
+    "home": "Нүүр",
+    "about": "Тухай",
+    "services": "Үйлчилгээ",
+    "portfolio": "Цомог",
+    "contact": "Холбоо барих"
+  },
+  "HomePage": {
+    "line1": "Манай сайтад тавтай морилно уу",
+    "line2": "Хүргэлтээс цааш — Бид өсөлт болон боломжийг түгээнэ",
+    "line3": "Премиум Юнайтэд нь CU Mongolia-тай хамтран ажиллах, ханган нийлүүлэгчийн өргөн сүлжээ болон хүчирхэг логистикийн чадавхаараа Монголын анхны бүрэн нэгдсэн нийлүүлэлтийн платформыг хөгжүүлэгч юм. ",
+    "button1": "Эхлэх",
+    "button2": "Дэлгэрэнгүй",
+    "small line1": "lorem lorem lorem lorem lorem"
+  },
+  "AboutPage": {
+    "title": "Манай компанийн тухай",
+    "line1": "Бид хэн бэ?",
+    "description": "Premium United нь * онд байгуулагдан, Монгол Улсын хүнсний нийлүүлэлт, логистикийн салбарт шинэ түвшний нэгдсэн экосистемийг бүтээх зорилготой ажиллаж байна. Манай компани нь бөөний түгээлт, хүйтэн түгээлт, боловсруулах төв, аймаг хоорондын буцаан таталт, Q-commerce, болон last-mile хүргэлтийн үйлчилгээг нэг платформ дээр уялдуулан, тасралтгүй ажиллагаатай нийлүүлэлтийн сүлжээг бий болгож байна. Бидний зорилго бол Монголын хүнсний нийлүүлэлтийг орчин үеийн, нэгдсэн, тогтвортой систем болгон хөгжүүлж, улс орон даяар өсөлт, хүртээмж, боломжийг түгээх юм."
+  },
+  "TeamPage": {
+    "title": "Манай багтай танилц",
+    "description": "Бид мэргэжлийн баг хамт олон"
+  },
+  "team": [
     {
       "name": "Соронзоннайгал Дашдорж",
       "title": "“Премиум Юнайтед” ХХК-ийн Гүйцэтгэх Захирал",
@@ -70,29 +70,29 @@
       "description1": "FMCG болон ложистикийн салбарт 6+ жилийн туршлагатай ханган нийлүүлэлт, худалдан авалт, ложистикийн удирдлагын мэргэжилтэн. Санхүү эдийн засгийн их сургууль (СЭЗИС)-ийн Магистр, БНСУ-ын Dongguk их сургуулийн Бакалаврын зэрэгтэй. Англи, Солонгос хэлэнд чөлөөтэй, Турк хэлний анхан шатны мэдлэгтэй. Стратегийн худалдан авалт, нийлүүлэгчтэй хэлцэл хийх, өртөг оновчлох, FMCG үйл ажиллагаа удирдахад өндөр ур чадвартай. Багаар ажиллуулах, өндөр ачаалалтай ложистикийн үйл ажиллагааг оновчтой удирдах туршлагатай.",
       "subtitle2": "Туршлага",
       "description2": [
-          {
-            "line": "Ложистикийн Газрын Захирал, Premium United — 2024.10 – Одоог хүртэл"
-          },
-          {
-            "line": "Ложистикийн Хэлтсийн Дарга, Premium Nexus JSC (CU Mongolia) — 2024",
-            "subtitle": "Агуулах, тээврийн ажиллагаа болон ложистикийн бүх шатны үйл явцыг удирдсан."
-          },
-          {
-            "line": "Нийлүүлэлтийн Сүлжээний Хэлтсийн Дарга, Premium Nexus JSC — 2022 – 2024",
-            "subtitle": "Ханган нийлүүлэлтийн стратеги, нийлүүлэгчтэй хэлцэл, гүйцэтгэлийн шинжилгээ удирдсан."
-          },
-          {
-            "line": "Худалдан Авалтын Хэлтсийн Менежер — 2021 – 2022",
-            "subtitle": "Хэлтсийн зохион байгуулалт, багийн манлайллыг хариуцсан."
-          },
-          {
-            "line": "Ахлах Худалдан Авалт Мэргэжилтэн — 2020 – 2021"
-          },
-          {
-            "line": "Худалдан Авалт Мэргэжилтэн — 2018 – 2020",
-            "subtitle": "2021 онд “Шилдэг Ажилтан” шагнал хүртсэн."
-          }
-        ],
+        {
+          "line": "Ложистикийн Газрын Захирал, Premium United — 2024.10 – Одоог хүртэл"
+        },
+        {
+          "line": "Ложистикийн Хэлтсийн Дарга, Premium Nexus JSC (CU Mongolia) — 2024",
+          "subtitle": "Агуулах, тээврийн ажиллагаа болон ложистикийн бүх шатны үйл явцыг удирдсан."
+        },
+        {
+          "line": "Нийлүүлэлтийн Сүлжээний Хэлтсийн Дарга, Premium Nexus JSC — 2022 – 2024",
+          "subtitle": "Ханган нийлүүлэлтийн стратеги, нийлүүлэгчтэй хэлцэл, гүйцэтгэлийн шинжилгээ удирдсан."
+        },
+        {
+          "line": "Худалдан Авалтын Хэлтсийн Менежер — 2021 – 2022",
+          "subtitle": "Хэлтсийн зохион байгуулалт, багийн манлайллыг хариуцсан."
+        },
+        {
+          "line": "Ахлах Худалдан Авалт Мэргэжилтэн — 2020 – 2021"
+        },
+        {
+          "line": "Худалдан Авалт Мэргэжилтэн — 2018 – 2020",
+          "subtitle": "2021 онд “Шилдэг Ажилтан” шагнал хүртсэн."
+        }
+      ],
       "photo": "undefinedman.jpg"
     },
     {
@@ -355,7 +355,6 @@
       ],
       "photo": "undefinedman.jpg"
     },
-
     {
       "name": "Багаажав Билгүүнжав",
       "title": "Бөөний худалдааны төслийн албаны дарга",
@@ -375,61 +374,61 @@
       ],
       "photo": "undefinedman.jpg"
     }
-    ],
-    "ServicesPage": {
-        "sub_title": "Бид юу хийдэг вэ?",
-        "title": "Манай үйлчилгээ",
-        "description": "Таны бизнест туслахын тулд бид санал болгож буй үйлчилгээний хүрээг нээн илрүүлээрэй."
+  ],
+  "ServicesPage": {
+    "sub_title": "Бид юу хийдэг вэ?",
+    "title": "Манай үйлчилгээ",
+    "description": "Таны бизнест туслахын тулд бид санал болгож буй үйлчилгээний хүрээг нээн илрүүлээрэй."
+  },
+  "Services": {
+    "title1": "Түгээлтийн төв",
+    "subtitle1": "123",
+    "description1": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas doloremque autem culpa amet saepe excepturi molestias iure molestiae quo at perspiciatis quam voluptatum repellendus recusandae praesentium, mollitia consequatur quos sequi delectus corrupti eum aliquam aut! Provident ab quo nobis aut amet ratione officia ipsam nisi excepturi est nemo commodi praesentium, tempore similique mollitia minus sed rem neque exercitationem iusto! Perferendis alias debitis facilis, distinctio nam esse fuga amet quidem repellat facere cupiditate est, officia nostrum voluptates a exercitationem, provident ducimus. Corrupti sequi voluptatum inventore adipisci aliquid quasi laboriosam officiis ipsum minima veniam, laborum asperiores deserunt porro delectus, cum ab quia!",
+    "title2": "Хүйтэн түгээлтийн төв",
+    "subtitle2": "123",
+    "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas doloremque autem culpa amet saepe excepturi molestias iure molestiae quo at perspiciatis quam voluptatum repellendus recusandae praesentium, mollitia consequatur quos sequi delectus corrupti eum aliquam aut! Provident ab quo nobis aut amet ratione officia ipsam nisi excepturi est nemo commodi praesentium, tempore similique mollitia minus sed rem neque exercitationem iusto! Perferendis alias debitis facilis, distinctio nam esse fuga amet quidem repellat facere cupiditate est, officia nostrum voluptates a exercitationem, provident ducimus. Corrupti sequi voluptatum inventore adipisci aliquid quasi laboriosam officiis ipsum minima veniam, laborum asperiores deserunt porro delectus, cum ab quia!",
+    "title3": "Түгээлтийн төв",
+    "subtitle3": "123",
+    "description3": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas doloremque autem culpa amet saepe excepturi molestias iure molestiae quo at perspiciatis quam voluptatum repellendus recusandae praesentium, mollitia consequatur quos sequi delectus corrupti eum aliquam aut! Provident ab quo nobis aut amet ratione officia ipsam nisi excepturi est nemo commodi praesentium, tempore similique mollitia minus sed rem neque exercitationem iusto! Perferendis alias debitis facilis, distinctio nam esse fuga amet quidem repellat facere cupiditate est, officia nostrum voluptates a exercitationem, provident ducimus. Corrupti sequi voluptatum inventore adipisci aliquid quasi laboriosam officiis ipsum minima veniam, laborum asperiores deserunt porro delectus, cum ab quia!"
+  },
+  "PortfolioPage": {
+    "sub_title": "Бид юу хийв?",
+    "title": "Манай зургийн цомог",
+    "description": "Бидний гүйцэтгэсэн төсөл болон дурсамжийг сонирхон үзээрэй"
+  },
+  "ContactPage": {
+    "title": "Бидэнтэй холбоо бариарай",
+    "description": "loremm ipsum dolor sit amet.",
+    "email": "contact@premiumunited.mn",
+    "phone": "+1234567890",
+    "address": "Улаанбаатар, Монгол",
+    "links": "Хэрэгтэй холбоосууд"
+  },
+  "TimelinePage": {
+    "title": "Он цагийн хэлхээс"
+  },
+  "timeline": [
+    {
+      "date": "2022",
+      "title": "Эхлэл",
+      "line": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
     },
-    "Services": {
-      "title1": "Түгээлтийн төв",
-      "subtitle1": "123",
-      "description1": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas doloremque autem culpa amet saepe excepturi molestias iure molestiae quo at perspiciatis quam voluptatum repellendus recusandae praesentium, mollitia consequatur quos sequi delectus corrupti eum aliquam aut! Provident ab quo nobis aut amet ratione officia ipsam nisi excepturi est nemo commodi praesentium, tempore similique mollitia minus sed rem neque exercitationem iusto! Perferendis alias debitis facilis, distinctio nam esse fuga amet quidem repellat facere cupiditate est, officia nostrum voluptates a exercitationem, provident ducimus. Corrupti sequi voluptatum inventore adipisci aliquid quasi laboriosam officiis ipsum minima veniam, laborum asperiores deserunt porro delectus, cum ab quia!",
-      "title2": "Хүйтэн түгээлтийн төв",
-      "subtitle2": "123",
-      "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas doloremque autem culpa amet saepe excepturi molestias iure molestiae quo at perspiciatis quam voluptatum repellendus recusandae praesentium, mollitia consequatur quos sequi delectus corrupti eum aliquam aut! Provident ab quo nobis aut amet ratione officia ipsam nisi excepturi est nemo commodi praesentium, tempore similique mollitia minus sed rem neque exercitationem iusto! Perferendis alias debitis facilis, distinctio nam esse fuga amet quidem repellat facere cupiditate est, officia nostrum voluptates a exercitationem, provident ducimus. Corrupti sequi voluptatum inventore adipisci aliquid quasi laboriosam officiis ipsum minima veniam, laborum asperiores deserunt porro delectus, cum ab quia!",
-      "title3": "Түгээлтийн төв",
-      "subtitle3": "123",
-      "description3": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas doloremque autem culpa amet saepe excepturi molestias iure molestiae quo at perspiciatis quam voluptatum repellendus recusandae praesentium, mollitia consequatur quos sequi delectus corrupti eum aliquam aut! Provident ab quo nobis aut amet ratione officia ipsam nisi excepturi est nemo commodi praesentium, tempore similique mollitia minus sed rem neque exercitationem iusto! Perferendis alias debitis facilis, distinctio nam esse fuga amet quidem repellat facere cupiditate est, officia nostrum voluptates a exercitationem, provident ducimus. Corrupti sequi voluptatum inventore adipisci aliquid quasi laboriosam officiis ipsum minima veniam, laborum asperiores deserunt porro delectus, cum ab quia!"
+    {
+      "date": "2024",
+      "title": "Дунд",
+      "line": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
     },
-    "PortfolioPage": {
-        "sub_title": "Бид юу хийв?",
-        "title": "Манай зургийн цомог",
-        "description": "Бидний гүйцэтгэсэн төсөл болон дурсамжийг сонирхон үзээрэй"
-    },
-    "ContactPage": {
-        "title": "Бидэнтэй холбоо бариарай",
-        "description": "loremm ipsum dolor sit amet.",
-        "email": "contact@premiumunited.mn",
-        "phone": "+1234567890",
-        "address": "Улаанбаатар, Монгол",
-        "links": "Хэрэгтэй холбоосууд"
-    },
-    "TimelinePage": {
-      "title": "Он цагийн хэлхээс"
-    },
-    "timeline": [
-      {
-        "date": "2022",
-        "title": "Эхлэл",
-        "line": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
-      },
-      {
-        "date": "2024",
-        "title": "Дунд",
-        "line": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
-      },
-      {
-        "date": "2025",
-        "title": "Одоо",
-        "line": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
-      }
-    ],
-    "ShipmentPage": {
-      "title": "Тоон баримт",
-      "line1": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
-    },
-    "shipment": [
+    {
+      "date": "2025",
+      "title": "Одоо",
+      "line": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
+    }
+  ],
+  "ShipmentPage": {
+    "title": "Тоон баримт",
+    "line1": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
+  },
+  "shipment": [
     {
       "name": "Түгээлтийн машин",
       "description": 123
@@ -462,20 +461,19 @@
       "name": "Осол зөрчилгүй ажилласан хүн/цаг",
       "description": 12345678
     }
-    ],
-    "BranchPage": {
-      "sub_title": "Бид хэнтэй ажилладаг вэ?",
-      "title": "Бидний хамтран ажилладаг салбар компаниуд",
-      "line1": "Манай компанийн төлөвшилд чухал нөлөө үзүүлсэн түүхэн онцлох үе шаттай танилцана уу. Амжилт бүр нь бидний шилдэг амжилт, инновацийн төлөөх амлалтыг илэрхийлдэг.",
-      "viewMore": "Дэлгэрэнгүй"
-    },
-    "branch": [
+  ],
+  "BranchPage": {
+    "sub_title": "Бид хэнтэй ажилладаг вэ?",
+    "title": "Бидний хамтран ажилладаг салбар компаниуд",
+    "line1": "Манай компанийн төлөвшилд чухал нөлөө үзүүлсэн түүхэн онцлох үе шаттай танилцана уу. Амжилт бүр нь бидний шилдэг амжилт, инновацийн төлөөх амлалтыг илэрхийлдэг.",
+    "viewMore": "Дэлгэрэнгүй"
+  },
+  "branch": [
     {
       "name": "Премиум Нэксус",
       "description": "Премиум Нэксус ХК нь CU-д төвтэй экосистемийн тусламжтайгаар жижиглэнгийн худалдааны тав тухыг шинэчилж, хүнс, ундааны жижиглэн худалдааны салбарт шинэ стандартыг тогтоож байна.",
       "icon": "logo.png",
       "link": "https://www.premiumnexus.mn/"
-
     },
     {
       "name": "Премиум Юнайтэд",
@@ -488,7 +486,6 @@
       "description": "Өдөр бүр 200,000+ үйлчлүүлэгчдэд үйлчилдэг энэхүү өсөн нэмэгдэж буй сүлжээ нь Улаанбаатар хот болон төвийн 10 аймагт 410+ дэлгүүрээр дамжуулан улс даяар чанар, тохь тухыг хүргэж байна.",
       "icon": "CU_logo.png",
       "link": "https://cumongol.mn/"
-
     },
     {
       "name": "Сэнтрал Коммерс",
@@ -500,36 +497,33 @@
       "description": "Сэнтрал Кофе Рөүстинг нь Германы технологийг ашиглан дээд зэрэглэлийн кофег шарж, савлаж, дээд зэргийн чанартай шошыг CU дэлгүүр, хэрэглэгчдэд хүргэдэг.",
       "icon": "ccr.png",
       "link": "https://centralcoffee.mn/"
-
     },
     {
       "name": "Стора Централ",
       "description": "Стора Централ-ийн тасралтгүй цахим худалдааны платформ нь Amazon болон Taobao-тай нэгдэж, Amazon-ийн бараа материалын системийг ашиглан CU-ийн дэлгүүрүүд дэх Store Boxes руу шууд гадаадад хурдан хүргэлтийг баталгаажуулдаг.",
       "icon": "stora.png",
       "link": "https://www.stora.mn/"
-
     },
     {
       "name": "Чингис Шар Айраг",
       "description": "1997 онд үүсгэн байгуулагдсан Чингис Шар Айраг нь Европын чанартай түүхий эдээр урласан, өвөрмөц гашуун амт, болор тунгалаг сэргэг амтыг бэлэглэдэг дээд зэрэглэлийн пилнерээрээ алдартай Монголын тэргүүлэгч брэнд юм.",
       "icon": "chinggis.png",
       "link": "https://chinggisbeer.com/"
-
     }
-    ],
-    "HRPage": {
-      "sub_title1": "Хэрхэн бидэнтэй холбогдох вэ?",
-      "title": "Хүний нөөц",
-      "line1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam.",
-      "sub_title": "Санамж",
-      "sub_line": "Та формыг бөглөхдөө дараах зүйлсийг анхаараарай.",
-      "reminder1": "Та формыг бөглөхдөө бүх асуултанд бүрэн хариулж, цэвэр, гаргацтай, үг товчлохгүй бичихийг анхаарна уу.",
-      "reminder2": "Крилл үсгээр бичнэ үү.",
-      "reminder3": "Хэрэв та Premium United-д аль хэдийн өргөдөл гаргасан бол үүнийг бөглөх хэрэггүй.",
-      "reminder4": "Бид таны хувийн мэдээллийг өөр зорилгоор ашиглахгүй.",
-      "sub_line2": "Ажлын зарын холбоосууд"
-    },
-    "hr": [
+  ],
+  "HRPage": {
+    "sub_title1": "Хэрхэн бидэнтэй холбогдох вэ?",
+    "title": "Бидэнтэй холбогдох",
+    "line1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam.",
+    "sub_title": "Санамж",
+    "sub_line": "Та формыг бөглөхдөө дараах зүйлсийг анхаараарай.",
+    "reminder1": "Та формыг бөглөхдөө бүх асуултанд бүрэн хариулж, цэвэр, гаргацтай, үг товчлохгүй бичихийг анхаарна уу.",
+    "reminder2": "Крилл үсгээр бичнэ үү.",
+    "reminder3": "Хэрэв та Premium United-д аль хэдийн өргөдөл гаргасан бол үүнийг бөглөх хэрэггүй.",
+    "reminder4": "Бид таны хувийн мэдээллийг өөр зорилгоор ашиглахгүй.",
+    "sub_line2": "Ажлын зарын холбоосууд"
+  },
+  "hr": [
     {
       "name": "Нийт ажилчид",
       "description": 123,
@@ -568,4 +562,4 @@
     "success": "Амжилттай",
     "error": "Алдаа гарлаа"
   }
-} 
+}

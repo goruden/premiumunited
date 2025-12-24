@@ -1,29 +1,29 @@
 {
-    "Navbar": {
-        "home": "Home",
-        "about": "About",
-        "services": "Services",
-        "portfolio": "Album",
-        "contact": "Contact"
-    },
-    "HomePage": {
-        "line1": "Welcome to our site",
-        "line2": "Beyond delivery — We deliver growth and opportunity",
-        "line3": "Leveraging CU Mongolia, a strong vendor network, and advanced logistics capabilities, Premium United is building Mongolia’s first fully integrated supply chain platform.",
-        "button1": "Get Started",
-        "button2": "Learn More",
-        "small line1": "lorem lorem lorem lorem lorem"
-    },
-    "AboutPage": {
-        "title": "About our company",
-        "line1": "Who we are?",
-        "description": "Premium United was established in * with a mission to build Mongolia’s next-generation integrated food distribution and logistics ecosystem. Our operations unify wholesale distribution, cold-chain and processing, rural backhaul sourcing, Q-commerce, and last-mile delivery into a single, efficient, and transparent platform. Our ambition is to transform Mongolia’s food supply chain into a modern, integrated, and sustainable system — delivering growth, access, and opportunity to every province and every shop we serve."
-    },
-    "TeamPage": {
-        "title": "Meet our team",
-        "description": "We are a team of professionals"
-    },
-    "team": [
+  "Navbar": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Album",
+    "contact": "Contact"
+  },
+  "HomePage": {
+    "line1": "Welcome to our site",
+    "line2": "Beyond delivery — We deliver growth and opportunity",
+    "line3": "Leveraging CU Mongolia, a strong vendor network, and advanced logistics capabilities, Premium United is building Mongolia’s first fully integrated supply chain platform.",
+    "button1": "Get Started",
+    "button2": "Learn More",
+    "small line1": "lorem lorem lorem lorem lorem"
+  },
+  "AboutPage": {
+    "title": "About our company",
+    "line1": "Who we are?",
+    "description": "Premium United was established in * with a mission to build Mongolia’s next-generation integrated food distribution and logistics ecosystem. Our operations unify wholesale distribution, cold-chain and processing, rural backhaul sourcing, Q-commerce, and last-mile delivery into a single, efficient, and transparent platform. Our ambition is to transform Mongolia’s food supply chain into a modern, integrated, and sustainable system — delivering growth, access, and opportunity to every province and every shop we serve."
+  },
+  "TeamPage": {
+    "title": "Meet our team",
+    "description": "We are a team of professionals"
+  },
+  "team": [
     {
       "name": "Dashdorj Soronzonnaigal",
       "title": "Managing Director of “Premium United” LLC",
@@ -70,29 +70,29 @@
       "description1": "Supply chain and logistics leader with 6+ years of experience in procurement, operations, and end-to-end logistics management. Holds a Master’s degree from the University of Finance and Economics (Mongolia) and a Bachelor’s degree from Dongguk University (Korea). Fluent in English and Korean, with working knowledge of Turkish. Skilled in strategic sourcing, supplier negotiations, cost optimization, and FMCG operations. Proven track record in leading teams, managing high-volume logistics, and improving operational efficiency.",
       "subtitle2": "Experience",
       "description2": [
-          {
-            "line": "Head of Logistic Division, Premium United — Oct 2024 – Present"
-          },
-          {
-            "line": "Head of Logistics Department, Premium Nexus JSC (CU Mongolia) — 2024",
-            "subtitle": "Led warehousing, transport operations, and end-to-end logistics workflows."
-          },
-          {
-            "line": "Head of Supply Chain Department, Premium Nexus JSC — 2022 – 2024",
-            "subtitle": "Oversaw procurement strategy, supplier negotiations, and performance analytics."
-          },
-          {
-            "line": "Procurement Department Manager, Premium Nexus JSC — 2021 – 2022",
-            "subtitle": "Managed departmental planning and team leadership across procurement functions."
-          },
-          {
-            "line": "Senior Procurement Specialist — 2020 – 2021"
-          },
-          {
-            "line": "Procurement Specialist — 2018 – 2020",
-            "subtitle": "Awarded “Best Employee of the Year” (2021) for outstanding performance."
-          }
-        ],
+        {
+          "line": "Head of Logistic Division, Premium United — Oct 2024 – Present"
+        },
+        {
+          "line": "Head of Logistics Department, Premium Nexus JSC (CU Mongolia) — 2024",
+          "subtitle": "Led warehousing, transport operations, and end-to-end logistics workflows."
+        },
+        {
+          "line": "Head of Supply Chain Department, Premium Nexus JSC — 2022 – 2024",
+          "subtitle": "Oversaw procurement strategy, supplier negotiations, and performance analytics."
+        },
+        {
+          "line": "Procurement Department Manager, Premium Nexus JSC — 2021 – 2022",
+          "subtitle": "Managed departmental planning and team leadership across procurement functions."
+        },
+        {
+          "line": "Senior Procurement Specialist — 2020 – 2021"
+        },
+        {
+          "line": "Procurement Specialist — 2018 – 2020",
+          "subtitle": "Awarded “Best Employee of the Year” (2021) for outstanding performance."
+        }
+      ],
       "photo": "undefinedman.jpg"
     },
     {
@@ -374,61 +374,61 @@
       ],
       "photo": "undefinedman.jpg"
     }
-    ],
-    "ServicesPage": {
-        "sub_title": "What we do?",
-        "title": "Our services",
-        "description": "Discover the range of services we offer to help your business grow."
+  ],
+  "ServicesPage": {
+    "sub_title": "What we do?",
+    "title": "Our services",
+    "description": "Discover the range of services we offer to help your business grow."
+  },
+  "Services": {
+    "title1": "Distribution Center",
+    "subtitle1": "123",
+    "description1": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas doloremque autem culpa amet saepe excepturi molestias iure molestiae quo at perspiciatis quam voluptatum repellendus recusandae praesentium, mollitia consequatur quos sequi delectus corrupti eum aliquam aut! Provident ab quo nobis aut amet ratione officia ipsam nisi excepturi est nemo commodi praesentium, tempore similique mollitia minus sed rem neque exercitationem iusto! Perferendis alias debitis facilis, distinctio nam esse fuga amet quidem repellat facere cupiditate est, officia nostrum voluptates a exercitationem, provident ducimus. Corrupti sequi voluptatum inventore adipisci aliquid quasi laboriosam officiis ipsum minima veniam, laborum asperiores deserunt porro delectus, cum ab quia!",
+    "title2": "Cold Chain Warehouse",
+    "subtitle2": "123",
+    "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas doloremque autem culpa amet saepe excepturi molestias iure molestiae quo at perspiciatis quam voluptatum repellendus recusandae praesentium, mollitia consequatur quos sequi delectus corrupti eum aliquam aut! Provident ab quo nobis aut amet ratione officia ipsam nisi excepturi est nemo commodi praesentium, tempore similique mollitia minus sed rem neque exercitationem iusto! Perferendis alias debitis facilis, distinctio nam esse fuga amet quidem repellat facere cupiditate est, officia nostrum voluptates a exercitationem, provident ducimus. Corrupti sequi voluptatum inventore adipisci aliquid quasi laboriosam officiis ipsum minima veniam, laborum asperiores deserunt porro delectus, cum ab quia!",
+    "title3": "Transportation Center",
+    "subtitle3": "123",
+    "description3": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas doloremque autem culpa amet saepe excepturi molestias iure molestiae quo at perspiciatis quam voluptatum repellendus recusandae praesentium, mollitia consequatur quos sequi delectus corrupti eum aliquam aut! Provident ab quo nobis aut amet ratione officia ipsam nisi excepturi est nemo commodi praesentium, tempore similique mollitia minus sed rem neque exercitationem iusto! Perferendis alias debitis facilis, distinctio nam esse fuga amet quidem repellat facere cupiditate est, officia nostrum voluptates a exercitationem, provident ducimus. Corrupti sequi voluptatum inventore adipisci aliquid quasi laboriosam officiis ipsum minima veniam, laborum asperiores deserunt porro delectus, cum ab quia!"
+  },
+  "PortfolioPage": {
+    "sub_title": "What we done?",
+    "title": "Our album",
+    "description": "Take a look at some of our recent projects and success stories."
+  },
+  "ContactPage": {
+    "title": "Get in touch",
+    "description": "loremm ipsum dolor sit amet.",
+    "email": "contact@premiumunited.mn",
+    "phone": "+1234567890",
+    "address": "Ulaanbaatar, Mongolia",
+    "links": "Useful links"
+  },
+  "TimelinePage": {
+    "title": "Timeline"
+  },
+  "timeline": [
+    {
+      "date": "2022",
+      "title": "Started",
+      "line": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
     },
-    "Services": {
-      "title1": "Distribution Center",
-      "subtitle1": "123",
-      "description1": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas doloremque autem culpa amet saepe excepturi molestias iure molestiae quo at perspiciatis quam voluptatum repellendus recusandae praesentium, mollitia consequatur quos sequi delectus corrupti eum aliquam aut! Provident ab quo nobis aut amet ratione officia ipsam nisi excepturi est nemo commodi praesentium, tempore similique mollitia minus sed rem neque exercitationem iusto! Perferendis alias debitis facilis, distinctio nam esse fuga amet quidem repellat facere cupiditate est, officia nostrum voluptates a exercitationem, provident ducimus. Corrupti sequi voluptatum inventore adipisci aliquid quasi laboriosam officiis ipsum minima veniam, laborum asperiores deserunt porro delectus, cum ab quia!",
-      "title2": "Cold Chain Warehouse",
-      "subtitle2": "123",
-      "description2": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas doloremque autem culpa amet saepe excepturi molestias iure molestiae quo at perspiciatis quam voluptatum repellendus recusandae praesentium, mollitia consequatur quos sequi delectus corrupti eum aliquam aut! Provident ab quo nobis aut amet ratione officia ipsam nisi excepturi est nemo commodi praesentium, tempore similique mollitia minus sed rem neque exercitationem iusto! Perferendis alias debitis facilis, distinctio nam esse fuga amet quidem repellat facere cupiditate est, officia nostrum voluptates a exercitationem, provident ducimus. Corrupti sequi voluptatum inventore adipisci aliquid quasi laboriosam officiis ipsum minima veniam, laborum asperiores deserunt porro delectus, cum ab quia!",
-      "title3": "Transportation Center",
-      "subtitle3": "123",
-      "description3": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas doloremque autem culpa amet saepe excepturi molestias iure molestiae quo at perspiciatis quam voluptatum repellendus recusandae praesentium, mollitia consequatur quos sequi delectus corrupti eum aliquam aut! Provident ab quo nobis aut amet ratione officia ipsam nisi excepturi est nemo commodi praesentium, tempore similique mollitia minus sed rem neque exercitationem iusto! Perferendis alias debitis facilis, distinctio nam esse fuga amet quidem repellat facere cupiditate est, officia nostrum voluptates a exercitationem, provident ducimus. Corrupti sequi voluptatum inventore adipisci aliquid quasi laboriosam officiis ipsum minima veniam, laborum asperiores deserunt porro delectus, cum ab quia!"
+    {
+      "date": "2024",
+      "title": "Middle",
+      "line": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
     },
-    "PortfolioPage": {
-        "sub_title": "What we done?",
-        "title": "Our album",
-        "description": "Take a look at some of our recent projects and success stories."
-    },
-
-    "ContactPage": {
-        "title": "Get in touch",
-        "description": "loremm ipsum dolor sit amet.",
-        "email": "contact@premiumunited.mn",
-        "phone": "+1234567890",
-        "address": "Ulaanbaatar, Mongolia",
-        "links": "Useful links"
-    },
-    "TimelinePage": {
-      "title": "Timeline"},
-    "timeline": [
-      {
-        "date": "2022",
-        "title": "Started",
-        "line": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
-      },
-      {
-        "date": "2024",
-        "title": "Middle",
-        "line": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
-      },
-      {
-        "date": "2025",
-        "title": "Now",
-        "line": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
-      }
-    ],
-    "ShipmentPage": {
-      "title": "Digital evidence",
-      "line1": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
-    },
-    "shipment": [
+    {
+      "date": "2025",
+      "title": "Now",
+      "line": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
+    }
+  ],
+  "ShipmentPage": {
+    "title": "Digital evidence",
+    "line1": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam."
+  },
+  "shipment": [
     {
       "name": "Shiping Car",
       "description": 123
@@ -461,14 +461,14 @@
       "name": "Person/hour worked without accidents",
       "description": 12345678
     }
-    ],
-    "BranchPage": {
-      "sub_title": "Who we work with?",
-      "title": "Our partner branch companies",
-      "line1": "Explore the significant milestones that have shaped our company. Each achievement reflects our commitment to excellence and innovation.",
-      "viewMore": "View More"
-    },
-    "branch": [
+  ],
+  "BranchPage": {
+    "sub_title": "Who we work with?",
+    "title": "Our partner branch companies",
+    "line1": "Explore the significant milestones that have shaped our company. Each achievement reflects our commitment to excellence and innovation.",
+    "viewMore": "View More"
+  },
+  "branch": [
     {
       "name": "Pemium Nexus JSC",
       "description": "At Premium Nexus JSC, we redefine retail convenience with our CU-centric ecosystem, setting new standards in the Food and Beverage retail sector.",
@@ -510,20 +510,20 @@
       "icon": "chinggis.png",
       "link": "https://chinggisbeer.com/"
     }
-    ],
-    "HRPage": {
-      "sub_title1": "How to contact us?",
-      "title": "Human resources",
-      "line1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam.",
-      "sub_title": "Reminder",
-      "sub_line": "Please note the following when filling out the form.",
-      "reminder1": "When filling out the application, please answer all questions completely, write clearly, legibly, and without abbreviations.",
-      "reminder2": "Write in Cyrillic script.",
-      "reminder3": "Do not apply if you have already been applied by Premium United.",
-      "reminder4": "We will not use your personal information for any other purpose.",
-      "sub_line2": "Job Advertisement Links"
-    },
-    "hr": [
+  ],
+  "HRPage": {
+    "sub_title1": "How to contact us?",
+    "title": "Contact Us",
+    "line1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac rhoncus quam.",
+    "sub_title": "Reminder",
+    "sub_line": "Please note the following when filling out the form.",
+    "reminder1": "When filling out the application, please answer all questions completely, write clearly, legibly, and without abbreviations.",
+    "reminder2": "Write in Cyrillic script.",
+    "reminder3": "Do not apply if you have already been applied by Premium United.",
+    "reminder4": "We will not use your personal information for any other purpose.",
+    "sub_line2": "Job Advertisement Links"
+  },
+  "hr": [
     {
       "name": "Total employees",
       "description": 123,
