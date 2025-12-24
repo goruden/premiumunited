@@ -20,41 +20,27 @@ const ServicePage = () => {
 
     return (
         <div ref={ref} id="services" className="max-w-6xl w-full mx-auto py-20 lg:py-30 px-10">
-            <motion.p
+            <motion.div
                 variants={variants}
                 initial="hidden"
                 whileInView="show"
-                viewport={{ once: true, amount: 0.2 }}
-                className="text-center text-xs text-red-600 mb-3"
-            >
-                {t('ServicesPage.sub_title')}
-            </motion.p>
-            <motion.p
-                variants={variants}
-                initial="hidden"
-                whileInView="show"
-                viewport={{ once: true, amount: 0.2 }}
-                className="text-center text-2xl md:text-3xl font-semibold mb-5"
-            >
-                {t('ServicesPage.title')}
-            </motion.p>
-
-            <motion.p
-                variants={variants}
-                initial="hidden"
-                whileInView="show"
-                viewport={{ once: true, amount: 0.2 }}
-                className="text-center mb-5 text-neutral-700 dark:text-neutral-200"
-            >
-                {t('ServicesPage.description')}
-            </motion.p>
-
+                viewport={{ once: false, amount: 0.2 }}>
+                <p className="text-center text-xs text-red-600 mb-3">
+                    {t('ServicesPage.sub_title')}
+                </p>
+                <p className="text-center text-2xl md:text-3xl font-semibold mb-5">
+                    {t('ServicesPage.title')}
+                </p>
+                <p className="text-center mb-5 text-neutral-700 dark:text-neutral-200">
+                    {t('ServicesPage.description')}
+                </p>
+            </motion.div>
             <div className="flex flex-col gap-10">
                 <motion.div
                     variants={variants}
                     initial="hidden"
                     whileInView="show"
-                    viewport={{ once: true, amount: 0.2 }}
+                    viewport={{ once: false, amount: 0.2 }}
                 >
                     <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5'>
                         <div className='md:col-span-2 lg:col-span-1'>
@@ -82,7 +68,7 @@ const ServicePage = () => {
                     variants={variants}
                     initial="hidden"
                     whileInView="show"
-                    viewport={{ once: true, amount: 0.2 }}
+                    viewport={{ once: false, amount: 0.2 }}
                     className=''
                 >
                     <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5'>
@@ -109,7 +95,7 @@ const ServicePage = () => {
                     variants={variants}
                     initial="hidden"
                     whileInView="show"
-                    viewport={{ once: true, amount: 0.2 }}
+                    viewport={{ once: false, amount: 0.2 }}
                     className=''
                 >
                     <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5'>

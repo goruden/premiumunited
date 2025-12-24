@@ -9,6 +9,11 @@ const xVariants = {
     show: { opacity: 1, x: 0 }
 }
 
+const variants = {
+    hidden: { opacity: 0, y: 20 },
+    show: { opacity: 1, y: 0 }
+}
+
 const ContactPage = () => {
 
     const { t } = useTranslation()
@@ -16,15 +21,20 @@ const ContactPage = () => {
     const hr = Array.isArray(hrRaw) ? hrRaw : []
 
     return (
-        <div 
+        <div
             className="max-w-6xl mx-auto pb-20 md:pb-30 py-10 md:py-20 lg:py-30 px-5 md:px-10 flex flex-col"
             id="contact"
         >
-            <div className="text-center max-w-2xl mx-auto">
+            <motion.div
+                variants={variants}
+                initial="hidden"
+                whileInView="show"
+                viewport={{ once: false, amount: 0.7 }}
+                className="text-center max-w-2xl mx-auto">
                 <p className="mb-3 text-xs text-red-600">{t("HRPage.sub_title1")}</p>
                 <p className="mb-5 text-2xl md:text-3xl font-semibold">{t("HRPage.title")}</p>
                 <p className="text-body text-neutral-700 dark:text-neutral-200">{t("HRPage.line1")}</p>
-            </div>
+            </motion.div>
 
             {/* HR CARDS */}
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-10 mt-10">
@@ -38,15 +48,15 @@ const ContactPage = () => {
                 variants={xVariants}
                 initial="hidden"
                 whileInView="show"
-                viewport={{ once: true, amount: 0.7 }}
+                viewport={{ once: false, amount: 0.2 }}
                 className="mt-16 grid grid-cols-1 lg:grid-cols-2 gap-10 md:gap-5 lg:gap-3 items-start"
             >
                 <div className="space-y-5">
                     <p className="text-lg md:text-xl font-semibold text-heading">
-                        {t("HRPage.sub_title")}            
+                        {t("HRPage.sub_title")}
                     </p>
                     <p className="text-body text-neutral-700 dark:text-neutral-200">
-                        {t("HRPage.sub_line")}  
+                        {t("HRPage.sub_line")}
                     </p>
                     <ol className="space-y-4 list-[upper-roman] list-inside text-neutral-700 dark:text-neutral-200">
                         <li>{t("HRPage.reminder1")}</li>
@@ -106,10 +116,10 @@ const AnimatedNumberCard = ({ member, index }: { member: any, index: number }) =
             variants={xVariants}
             initial="hidden"
             whileInView="show"
-            viewport={{ once: true, amount: 0.7 }}
+            viewport={{ once: false, amount: 0.2 }}
         >
             <svg xmlns="http://www.w3.org/2000/svg" color='red' fill="none" viewBox="0 0 24 24" strokeWidth="1.2" stroke="currentColor" className="size-25">
-              <path strokeLinecap="round" strokeLinejoin="round" d={member.icon} />
+                <path strokeLinecap="round" strokeLinejoin="round" d={member.icon} />
             </svg>
             <div className="mt-5 text-xl md:text-2xl font-semibold">
                 <NumberFlow value={value} />

@@ -83,10 +83,16 @@ const PortfolioPage = () => {
                 ref={containerRef}
             >
                 <div className="max-w-6xl mx-auto py-20 md:py-20 lg:py-30 px-10 text-center">
-                    <p className="mb-3 text-xs text-red-600">{t("PortfolioPage.sub_title")}</p>
-                    <p className="mb-5 text-2xl md:text-3xl font-semibold">{t("PortfolioPage.title")}</p>
-                    <p className="mb-5 text-neutral-700 dark:text-neutral-200">{t("PortfolioPage.description")}</p>
-
+                    <motion.div
+                        variants={variants}
+                        initial="hidden"
+                        whileInView="show"
+                        viewport={{ once: false, amount: 0.2 }}
+                    >
+                        <p className="mb-3 text-xs text-red-600">{t("PortfolioPage.sub_title")}</p>
+                        <p className="mb-5 text-2xl md:text-3xl font-semibold">{t("PortfolioPage.title")}</p>
+                        <p className="mb-5 text-neutral-700 dark:text-neutral-200">{t("PortfolioPage.description")}</p>
+                    </motion.div>
                     {/* Masonry Grid */}
                     <div className="columns-2 md:columns-3 lg:columns-4 gap-5 space-y-5">
                         {images.map((img, idx) => (
