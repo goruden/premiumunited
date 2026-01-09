@@ -13,11 +13,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Premium United",
-  description: "Beyond delivery — We deliver growth and opportunity",
-  icons: {
-    icon: "/logo_big.png",
-    apple: "/logo_big.png"
+  openGraph: {
+    type: "website",
+    url: "https://premiumunited.vercel.app/",
+    title: "Premium United",
+    description: "Beyond delivery — We deliver growth and opportunity",
+    siteName: "Premium United",
+    images: [{ url: "/logo_big.png" }]
   }
 };
 
